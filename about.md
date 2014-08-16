@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Kyle Duggan is a journalist in Ottawa, Canada, currently studying in Carleton's Master of Journalism program.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kyle.duggan@carleton.ca](mailto:kyle.duggan@carleton.ca)
