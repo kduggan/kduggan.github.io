@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site
 .DS_Store
 .jekyll
@@ -7,3 +8,15 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> c35069d29569694d0dbbb7bc68c3d779c0d5828f
