@@ -9,7 +9,6 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Kyle Duggan
-tagline: Site Tagline
 author :
   name : Kyle Duggan 
   email : kyle.duggan@hotmail.ca
@@ -115,7 +114,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : tweet
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

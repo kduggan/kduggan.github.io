@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to Kyle's blog
-tagline: version 1.0 
+tagline: "version 1.0"
 ---
 {% include JB/setup %}
 
