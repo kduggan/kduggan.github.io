@@ -10,12 +10,10 @@ tagline: "version 1.0"
 
 * Change title page.
 
-* **Finish about page**, add photo.
-
 * Import posts/work samples.
 
 * Change top menu layout.
 
 * Add twitter widget.
 
-* Add layout features
+* Modify layout

@@ -3,6 +3,7 @@ layout: post
 title: XFM Radio Voice Report 
 tagline: "Radio Portfolio"
 tags: Radio
+categories: [Radio]
 ---
 
 This is a news voicer that aired in 2008 on 106.9FM, Fanshawe College’s student-run radio station. 
