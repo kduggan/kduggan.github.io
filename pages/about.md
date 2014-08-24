@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-
+group: navigation
 ---
 <img style="float: right" src="https://kyleaduggan.files.wordpress.com/2013/09/02.jpg?w=247&h=300">
 
