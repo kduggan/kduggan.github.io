@@ -3,7 +3,7 @@ layout: post
 title: Carleton Radio Voicer 
 tagline: "Radio Portfolio"
 tags: Radio
-categories: [Radio, Audio]
+categories: [Audio]
 ---
 #Valentines Day ‘flower boy’ brings cheer to singles with sponsorship, teamwork
 

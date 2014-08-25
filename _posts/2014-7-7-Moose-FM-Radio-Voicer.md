@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Moose-FM Voice Report - Vimy Ridge Day
+title: Moose-FM Voice Report
 tagline: "Radio Portfolio"
 tags: Radio
-categories: [Radio, Audio]
+categories: [Audio]
 ---
+#Vimy Ridge Day
 
 When I worked at 94.1 FM in Elliot Lake, I mostly wrote script-clips or aired full interviews. 
 

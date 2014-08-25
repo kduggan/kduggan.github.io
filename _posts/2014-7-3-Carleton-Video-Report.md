@@ -3,7 +3,7 @@ layout: post
 title: CJTV News Video Report 
 tagline: "Video Portfolio"
 tags: Video
-categories: [Video, TV]
+categories: [Video]
 ---
 
 This is a feature report I worked on for [Centretown News Online](http://www.centretownnews.ca/multimedia-mainmenu-131/4553-mementoes-of-days-gone-by.html) in March 2014 — my first time reporting on camera.
