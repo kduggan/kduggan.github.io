@@ -3,7 +3,7 @@ layout: post
 title: XFM Newscast 
 tagline: "Radio Portfolio"
 tags: Radio
-categories: [Radio]
+categories: [Radio, Audio]
 ---
 
 Here’s a weekend newscast I did back in April 2008 at 106.9 XFM.
