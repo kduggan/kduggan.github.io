@@ -10,10 +10,14 @@ tagline: "version 1.0"
 
 * Change title page.
 
-* Import posts/work samples.
-
 * Change top menu layout.
 
 * Add twitter widget.
 
-* Modify layout
+* Modify layout, justify About page, add dropdown menus
+
+* setup Google analytics
+
+* upload up to date resume
+
+* remove WP hosted links
