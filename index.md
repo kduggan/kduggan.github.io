@@ -1,23 +1,37 @@
 ---
 layout: page
-title: Welcome to Kyle's blog
+title: Main Page
 tagline: "version 1.0"
 ---
 {% include JB/setup %}
 
-## To-Do
+#Todo
 
+* Set up Pagination properly...
+* Set up navbar categories
 
-* Change title page.
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
 
-* Change top menu layout.
-
-* Add twitter widget.
-
-* Modify layout, justify About page, add dropdown menus
-
-* setup Google analytics
-
-* upload up to date resume
-
-* remove WP hosted links
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>

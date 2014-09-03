@@ -33,7 +33,12 @@
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+             
+            <li><a href="/pages/about.html">About</a></li>
+            <li><a href="/Resumé.html">Resume</a></li>
+            <li><a href="/categories.html">Work Samples</a></li>
+  
+          </li>
           </ul>
         </div>
       </div>
@@ -54,6 +59,8 @@
 
     </div> <!-- /container -->
 
-    {% include JB/analytics %}
+
+    </div>   {% include JB/analytics %}
+
   </body>
 </html>
