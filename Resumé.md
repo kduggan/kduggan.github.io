@@ -16,7 +16,7 @@ Email: [kyle.duggan@carleton.ca](mailto:kyle.duggan@hotmail.ca?Subject=Hello%20K
 
 ---
 
-###EXPERIENCE
+####EXPERIENCE
 
 <b>Intern, CBC national radio news </b><br>
 Toronto, ON – June 2 – July 11, 2014 <br>
@@ -67,7 +67,7 @@ Fanshawe College, London, ON - 2006 to 2008 <br>
 
 ---
 
-###EDUCATION
+####EDUCATION
 
 <b>Master of Journalism, expected 2015 </b><br>
 Carleton University, Ottawa, ON <br>
@@ -80,7 +80,7 @@ Fanshawe College, London, ON <br>
 
 ---
 
-###SKILLS AND QUALIFICATIONS
+####SKILLS AND QUALIFICATIONS
 
 • Familiar with Canadian Press style <br>
 • Valid G class driver's license, clean abstract <br>
@@ -93,7 +93,7 @@ Fanshawe College, London, ON <br>
 
 ---
 
-###AWARDS AND SCHOLARSHIPS
+####AWARDS AND SCHOLARSHIPS
 
 <b>2014</b> SSHRC Joseph-Armand Bombardier Canada Graduate Scholarship [Carleton] <br>
 <b>2012-2013</b> Deans' Honour List [Carleton] <br>

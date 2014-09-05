@@ -13,7 +13,7 @@ Before that he was the News Director at [CKNR 94.1 FM](http://moosefm.com/cknrs/
 
 Kyle has also reported for [AM 980](http://www.am980.ca/) and the student radio station [106.9 the "X" FM](http://www.1069thex.com/) at Fanshawe College in London, ON.
 
-Most recently he interned at [The Hill Times](www.hilltimes.com/) and at CBC national radio news, where he worked on the programs [the World at Six](www.cbc.ca/w6/)and [the World this hour](www.cbc.ca/theworldthishour/).
+Most recently he interned at [The Hill Times](www.hilltimes.com/) and at CBC national radio news, where he worked on the programs [the World at Six](www.cbc.ca/w6/)and [the World This Hour](www.cbc.ca/theworldthishour/).
 
 ---
 
