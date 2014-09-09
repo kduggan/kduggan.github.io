@@ -5,9 +5,8 @@ tags: Resume
 categories: [Resume]
 group: navigation
 ---
-<a href="https://www.dropbox.com/s/8z1rly306zd17nv/Duggan%20Resume%20%202014.pdf?dl=0" class="btn btn-success btn-large">Download a PDF version</a>
-
-##Kyle Duggan
+<a href="https://www.dropbox.com/s/8z1rly306zd17nv/Duggan%20Resume%20%202014.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a>
+<h2>Kyle Duggan</h2> 
 
 202-96 Arthur St. <br>
 Ottawa, ON K1R 6T1  <br>
