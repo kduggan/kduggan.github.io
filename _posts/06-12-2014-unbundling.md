@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Canada's broadcast regulator to rule on pick and pay TV early on in election year
-tags: Multimedia
+tags: Print
 categories: [Print]
 ---
 <p>     If Canada's broadcast and telecommunication regulator orders cable companies to unbundle their TV packages for subscribers, some experts say it could also cause prices to rise for some and reduce channel selection.</p>
