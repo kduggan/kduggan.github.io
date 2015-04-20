@@ -5,17 +5,7 @@ tags: Resume
 categories: [Resume]
 group: navigation
 ---
-<a href="https://www.dropbox.com/s/8z1rly306zd17nv/Duggan%20Resume%20%202014.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a>
-<h2>Kyle Duggan</h2> 
-
-202-96 Arthur St. <br>
-Ottawa, ON K1R 6T1  <br>
-Phone: 613.266.6310 <br>
-Email: [kyle.duggan@carleton.ca](mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle)  <br>
-
----
-
-####EXPERIENCE
+####EXPERIENCE 
 
 <b>Intern, CBC national radio news </b><br>
 Toronto, ON – June 2 – July 11, 2014 <br>
@@ -103,6 +93,9 @@ Fanshawe College, London, ON <br>
 <b>2008</b> AM980's Broadcast Journalist of the Year [Fanshawe] <br>
 <b>2008</b> KLZ News Editing Award for Audio Production [Fanshawe] <br>
 <b>2008</b> Dean's Honour Roll [Fanshawe] <br>
+
+<br>
+<a href="https://www.dropbox.com/s/8z1rly306zd17nv/Duggan%20Resume%20%202014.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a>
 
 <!--<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Duggan Resume 2013 on Scribd" href="http://www.scribd.com/doc/192942369"  style="text-decoration: underline;" >Duggan Resume 2013</a></p><iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/192942369/content?start_page=1&view_mode=scroll&show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_22723" width="100%" height="600" frameborder="0"></iframe> -->
 ---

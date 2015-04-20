@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Online Feature Sample
+title: Ottawa band crowdfunds Christmas album
 tags: Multimedia
 categories: [Multimedia, Print]
 ---
-#Ottawa-area band crowdfunds Christmas album
-
-
 <img src="https://dl.dropboxusercontent.com/u/50108349/Blag/MFT2.jpg" alt="My Favourite Tragedy" style="width: 550px;"/>
 
 **My Favourite Tragedy, left to right: North Easton, John-Marc Desmarais, Phil Desmarais.**
 
 ---
-
-By Kyle Duggan and Brett Throop
-
-One Christmas, North Easton made a promise to his mother: he would write her a Christmas album of his own songs.
 
 That was some years ago. And while Easton plugged away at the Christmas collection over the years, tragically, his mother died of lung cancer before the project could be completed.
 
@@ -23,10 +16,12 @@ Now, with the help of online fundraising, Easton is making good on his promise.
 
 Easton and his three-piece acoustic band, My Favourite Tragedy, raised $6,414 on Kickstarter, a popular crowdfunding website, to produce the original Christmas album.  The album has eight songs that tell intimate stories about family and the holidays. The band is doing a music video for the song Christmas Lights, which is about Easton’s father’s tradition of waking him up early to put up the Christmas lights—rain or shine.
 
+
 ###### Audio Slide Show: Behind the scenes at the Christmas Lights video shoot
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="516" height="444" id="soundslider"><param name="movie" value="https://dl.dropboxusercontent.com/u/41691394/duggan%20soundslides/soundslider.swf?size=1&format=xml&embed_width=516&embed_height=444" /><param name="allowScriptAccess" value="always" /><param name="quality" value="high" /><param name="allowFullScreen" value="true" /><param name="menu" value="false" /><param name="bgcolor" value="#333333" /><embed src="https://dl.dropboxusercontent.com/u/41691394/duggan%20soundslides/soundslider.swf?size=1&format=xml&embed_width=516&embed_height=444" quality="high" bgcolor="#333333" width="516" height="444" menu="true" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash"></embed></object>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="516" height="444" id="soundslider"><param name="movie" value="https://dl.dropboxusercontent.com/u/41691394/duggan%20soundslides/soundslider.swf?size=1&format=xml&embed_width=516&embed_height=444" /><param name="allowScriptAccess" value="always" /><param name="quality" value="high" /><param name="allowFullScreen" value="true" /><param name="menu" value="false" /><param name="bgcolor" value="#333333" /><embed src="https://dl.dropboxusercontent.com/u/41691394/duggan%20soundslides/soundslider.swf?size=1&format=xml&embed_width=516&embed_height=444" quality="high" bgcolor="#333333" width="475" height="410" menu="true" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash"></embed></object>
 
+<br>
 “Traditions of Christmas aren’t just waiting in a mall in a line up to buy something somebody doesn’t want. But more like sharing something inside of you that’s real,” he said.
 
 The group’s Kickstarter page asked for $5,000 to produce the album and raised it with just three days to go before their deadline. They then pushed on to get another thousand to make the video for Christmas Lights.
@@ -50,7 +45,7 @@ He added the band will likely look to Kickstarter again for future projects base
 ###### Video: The band's kickstarter appeal to their fans
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZhOYDYDT3fE" frameborder="0" allowfullscreen></iframe>
-
+<br>
 The group raised funds from 92 people around the world, offering them different pledge levels which all come with different perks.
 
 For example, $5 gets backers a Christmas card and the album’s single, while $100 includes guitar lessons, $300 gets songwriting sessions over Skype and $500 gets an hour-long acoustic set in the project backer’s living room.
