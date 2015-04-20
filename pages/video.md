@@ -18,8 +18,8 @@ This is a feature report I did about a collectors show for <a href="http://www.c
 <br>
 <h2>Editing</h2>
 <br>
-<p style="margin-right:20em;">
-This is a short feature-length documentary on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.</p>
+
+This is a short feature-length documentary on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ0J8T0aPwo" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ This is a short feature-length documentary on a boxing gym that's trying to fix 
 <br>
 <h2>Camera Work</h2>
 <br>
-<p style="margin-right:20em;">This is a short feature length documentary I shot about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.</p>
+This is a short feature length documentary I shot about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HyUfN_p8YQg" frameborder="0" allowfullscreen></iframe>
 
@@ -35,5 +35,7 @@ This is a short feature-length documentary on a boxing gym that's trying to fix 
 <p>This is a short profile of two women from Thailand who now operate a foodtruck in Ottawa.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiKndXBfs4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
 
 {% include JB/setup %}
