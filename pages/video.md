@@ -3,6 +3,8 @@ layout: page
 title: "Video"
 group: navigation
 ---
+<html>
+<body>
 <h2>Reporting</h2>
 <br> 
 This is a report I worked on in fall 2014 about Canada's ageing electricity infrastructure.
@@ -37,5 +39,6 @@ This is a short feature-length documentary on a boxing gym that's trying to fix 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiKndXBfs4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 
-
+</html>
+</body>
 {% include JB/setup %}
