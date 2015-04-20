@@ -40,7 +40,10 @@
             <li><a href="/pages/audio.html">Audio</a></li>
             <li><a href="/pages/video.html">Video</a></li>
          <!-- <li><a href="/pages/multimedia.html ">Multimedia</a></li>
-             <li><a href="/categories.html">All Samples</a></li> -->
+         <li><a href="/categories.html">All Samples</a></li> 
+         <form class="navbar-search pull-left">
+           <input type="text" class="search-query" placeholder="Search"> -->
+             </form>
           </li>
           </ul>
         </div>
@@ -52,18 +55,13 @@
       <div class="content">
         {{ content }}
       </div>
-
       <footer>
-        <p>&copy; {{ site.author.name }} 2014.
-          With help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        <p>&copy;<a href="mailto:kyle.duggan@carleton.ca"> {{ site.author.name }}</a> 2014.
+          Site built with <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </footer>
-
     </div> <!-- /container -->
-
-
     </div>   {% include JB/analytics %}
-
   </body>
 </html>

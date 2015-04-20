@@ -8,7 +8,7 @@ group: navigation
 ####EXPERIENCE 
 
 <b>Intern, CBC national radio news </b><br>
-Toronto, ON – June 2 – July 11, 2014 <br>
+Toronto, ON – June 2 to July 11, 2014 <br>
 
 • Wrote copy stories for the World at Six and The World This Hour <br>
 • Collected, cut and edited audio from CBCNN, Reuters and CNN <br>
@@ -23,7 +23,7 @@ Ottawa, ON – April 14-25, 2014 <br>
 • Compiled list of House and Senate business <br>
 
 <b>Teaching Assistant, Carleton University </b><br>
-Ottawa, ON – Fall 2013 - present <br>
+Ottawa, ON – Fall 2013 to Spring 2015 <br>
 
 • Reviews and edits work produced by undergraduate and graduate students <br>
 • Edits assignments for Canadian Press style errors, technical and ethical guidelines <br>
@@ -95,8 +95,7 @@ Fanshawe College, London, ON <br>
 <b>2008</b> Dean's Honour Roll [Fanshawe] <br>
 
 <br>
-<a href="https://www.dropbox.com/s/8z1rly306zd17nv/Duggan%20Resume%20%202014.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a>
+<a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a> 
 
 <!--<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Duggan Resume 2013 on Scribd" href="http://www.scribd.com/doc/192942369"  style="text-decoration: underline;" >Duggan Resume 2013</a></p><iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/192942369/content?start_page=1&view_mode=scroll&show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_22723" width="100%" height="600" frameborder="0"></iframe> -->
----
 {% include JB/setup %}
