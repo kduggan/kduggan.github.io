@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carleton students prepare for Canadian drone industry to soar into U.S.
-tags: Multimedia
+tags: [Multimedia, Print]
 categories: [Multimedia, Print]
 ---
 <a href="http://www.flickr.com/photos/103582096@N05/sets/72157638494236334/show"><img id="i-153" class=" wp-image  " title="Fourth year engineering student Tarek Abdalla assembles the Corvus aerial drone" src="http://kyleaduggan.files.wordpress.com/2013/12/img_4403.jpg?w=650" alt="" width="585" height="337" /></a> 

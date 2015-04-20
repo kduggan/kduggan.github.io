@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page2
 title: "Video"
 group: navigation
 ---
@@ -7,7 +7,7 @@ group: navigation
 <body>
 <h2>Reporting</h2>
 <br> 
-This is a report I worked on in fall 2014 about Canada's ageing electricity infrastructure.
+<p>This is a report I worked on in fall 2014 about Canada's ageing electricity infrastructure.</p>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BV5DOCxrNdU" frameborder="0" allowfullscreen></iframe>
 
@@ -22,7 +22,7 @@ This is a report I worked on in fall 2014 about Canada's ageing electricity infr
 <h2>Editing</h2>
 <br>
 
-<p style="margin-right:20em;">This is a short feature-length documentary on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.</p>
+<p style="margin-right:20em;">This is a short feature-length documentary from May 2015 on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ0J8T0aPwo" frameborder="0" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ This is a report I worked on in fall 2014 about Canada's ageing electricity infr
 <hr>
 <h2>Camera Work</h2>
 <br>
-<p style="margin-right:20em;">This is a short feature length documentary I shot about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.</p>
+<p style="margin-right:20em;">This is a short feature length documentary I shot in February 2015 about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HyUfN_p8YQg" frameborder="0" allowfullscreen></iframe>
 
