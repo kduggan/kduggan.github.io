@@ -19,6 +19,7 @@ This is a feature report I did about a collectors show for <a href="http://www.c
 
 This is a short feature-length documentary on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.
 <br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ0J8T0aPwo" frameborder="0" allowfullscreen></iframe>
 
 
@@ -31,7 +32,8 @@ This is a short feature length documentary I shot about a Gatineau bike repair g
 
 
 This is a short profile of two women from Thailand who now operate a foodtruck in Ottawa.
-<br>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiKndXBfs4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <br>
