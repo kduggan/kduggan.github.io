@@ -21,7 +21,7 @@ This is a short feature-length documentary on a boxing gym that's trying to fix 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ0J8T0aPwo" frameborder="0" allowfullscreen></iframe>
 
-<hr>
+
 
 <h2>Camera Work</h2>
 <br>
@@ -34,5 +34,6 @@ This is a short profile of two women from Thailand who now operate a foodtruck i
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9QiKndXBfs4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<br>
 ---
 {% include JB/setup %}
