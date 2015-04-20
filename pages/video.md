@@ -12,23 +12,23 @@ This is a report I worked on in fall 2014 about Canada's ageing electricity infr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BV5DOCxrNdU" frameborder="0" allowfullscreen></iframe>
 
 <br>
-<p>This is a feature report I did about a collectors show for <a href="http://www.centretownnews.ca/multimedia-mainmenu-131/4553-mementoes-of-days-gone-by.html">Centretown News Online</a> in March 2014.</p>
 <br>
-
+<p>This is a feature report I did about a collectors show for <a href="http://www.centretownnews.ca/multimedia-mainmenu-131/4553-mementoes-of-days-gone-by.html">Centretown News Online</a> in March 2014.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3itAaGyeFqY" frameborder="0" allowfullscreen></iframe>
 
 <br>
 <br>
+<hr>
 <h2>Editing</h2>
 <br>
 
 <p style="margin-right:20em;">This is a short feature-length documentary on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.</p>
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZ0J8T0aPwo" frameborder="0" allowfullscreen></iframe>
 
 <br>
 <br>
+<hr>
 <h2>Camera Work</h2>
 <br>
 <p style="margin-right:20em;">This is a short feature length documentary I shot about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.</p>
