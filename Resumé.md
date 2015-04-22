@@ -19,7 +19,7 @@ Toronto, ON – June 2 to July 11, 2014 <br /></p>
 
 <p>• Wrote copy stories for the World at Six and The World This Hour <br />
 • Collected, cut and edited audio from CBCNN, Reuters and CNN <br />
-• Assembled and mixed-down reporter voicers, produced foreign briefs  <br />
+• Assembled and mixed-down reporter voicers <br />
 • Back-timed shows, cued hosts <br /></p>
 
 <p><b>Intern, The Hill Times </b><br />
@@ -32,9 +32,9 @@ Ottawa, ON – April 14-25, 2014 <br /></p>
 <p><b>Teaching Assistant, Carleton University </b><br />
 Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
 
-<p>• Reviews and edits work produced by undergraduate and graduate students <br />
-• Edits assignments for Canadian Press style errors, technical and ethical guidelines <br />
-• Assists students in learning multimedia skills and technology <br /></p>
+<p>• Reviewed and edited work produced by undergraduate and graduate students <br />
+• Edited assignments for Canadian Press style errors, technical and ethical guidelines <br />
+• Assisted students in learning multimedia skills and technology <br /></p>
 
 <p><b>Communications Summer Student, Hydro Ottawa </b><br />
 Ottawa, ON – May to August 2013 <br /></p>
