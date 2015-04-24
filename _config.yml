@@ -132,4 +132,3 @@ JB :
  
       #includes an icon in the footer for each user name you enter
               
-gems: ['jekyll-lunr-js-search']      

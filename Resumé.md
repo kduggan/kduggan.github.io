@@ -12,8 +12,9 @@ group: navigation
 .align-right{float: right;width:25%}
 </style>
 </head>
-<div class='container'><div class="align-left"><h4>EXPERIENCE</h4></div><div class="align-right"><a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a>
-</div></div> <body>
+<div class='container'><div class="align-left"><h4>EXPERIENCE</h4></div><div class="align-right"><a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a> 
+</div></div>
+<body>
 <p><b>Intern, CBC national radio news </b><br />
 Toronto, ON – June 2 to July 11, 2014 <br /></p>
 

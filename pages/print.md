@@ -19,12 +19,9 @@ group: navigation
 <br>
 <a href="https://kduggan.github.io/print/2014/12/06/unbundling">Canada's broadcast regulator to rule on pick and pay TV early on in election year</a> | December 6, 2014
 <br>
-<a href="https://kduggan.github.io/multimedia/print/2013/12/03/Ottawa-Band-Crowdfunds-Album/">Ottawa Band Crowdfunds Christmas Album</a> | December 3, 2013 
+<a href="https://kduggan.github.io/print/2014/10/14/Senator-Profile/">Liberal Senator says Trudeau is after fundamental Senate reform</a> | October 14, 2014
 <br>
 <a href="http://www.davidmckie.com/25-years-after-exxon-valdez-environmentalists-say-canadian-tanker-policy-still-doesnt-hold-water/">25 years after Exxon Valdez, environmentalists say Canadian tanker policy still doesn’t hold water</a> | February 27, 2014
 <br>
-<a href="https://kduggan.github.io/print/2014/10/14/Senator-Profile/">Liberal Senator says Trudeau is after fundamental Senate reform</a> | October 14, 2014
-<br>
-
----
+<a href="https://kduggan.github.io/multimedia/print/2013/12/03/Ottawa-Band-Crowdfunds-Album/">Ottawa Band Crowdfunds Christmas Album</a> | December 3, 2013 
 {% include JB/setup %}
