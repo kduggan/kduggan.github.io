@@ -24,7 +24,8 @@ group: navigation
 
 <p>This is a live tape-talk from November 2014 that aired on CKCU FM in Ottawa.</p> 
 
-<div class="ab-player" data-boourl="http://audioboom.com/boos/3160860-vaping-tape-talk/embed/v3?eid=AQAAACXxS1UcOzAA" data-boowidth="100%" data-maxheight="150" data-iframestyle="background-color:transparent; display:block; min-width:300px; max-width:700px;" style="background-color:transparent;"><a href="https://audioboom.com/boos/3160860-vaping-tape-talk">listen to &#x2018;Vaping Tape-Talk&#x2019; on audioBoom</a></div><script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://d15mj6e6qmt1na.cloudfront.net/cdn/embed.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
+<div class="ab-player" data-boourl="http://audioboom.com/boos/3160860-vaping-tape-talk/embed/v3?eid=AQAAACXxS1UcOzAA" data-boowidth="100%" data-maxheight="150" data-iframestyle="background-color:transparent; display:block; min-width:300px; max-width:700px;" style="background-color:transparent;"><a href="https://audioboom.com/boos/3160860-vaping-tape-talk">listen to &#x2018;Vaping Tape-Talk&#x2019; on audioBoom</a></div>
+<script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://d15mj6e6qmt1na.cloudfront.net/cdn/embed.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
 
 <hr>
 

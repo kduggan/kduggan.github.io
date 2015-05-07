@@ -18,6 +18,8 @@ group: navigation
 <style type="text/css"> 
 .flickrimg {border: 1px solid #666666 !important; padding:1px; margin:1px;}
 #flickr_badge_wrapper {width:620px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code.gne?count=14&display=random&size=square&nsid=103582096@N05&raw=1"></script></div>
+</style>
+<div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code.gne?count=14&display=random&size=square&nsid=103582096@N05&raw=1"></script></div>
 </body>
+</html>
 {% include JB/setup %}
