@@ -19,14 +19,14 @@ group: navigation
 <p>This is a radio feature on accessibility at University of Ottawa I did for Midweek on 93.1 FM CKCU, Carleton's radio station.</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/171510421&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-
+<!--
 <hr>
 
 <p>This is a live tape-talk from November 2014 that aired on CKCU FM in Ottawa.</p> 
 
 <div class="ab-player" data-boourl="http://audioboom.com/boos/3160860-vaping-tape-talk/embed/v3?eid=AQAAACXxS1UcOzAA" data-boowidth="100%" data-maxheight="150" data-iframestyle="background-color:transparent; display:block; min-width:300px; max-width:700px;" style="background-color:transparent;"><a href="https://audioboom.com/boos/3160860-vaping-tape-talk">listen to &#x2018;Vaping Tape-Talk&#x2019; on audioBoom</a></div>
 <script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://d15mj6e6qmt1na.cloudfront.net/cdn/embed.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
-
+-->
 <hr>
 
 <h2>News Reporting</h2>
