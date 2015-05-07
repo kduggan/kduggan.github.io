@@ -19,4 +19,5 @@ title: About
 <hr>
 
 <div class="btn-group"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
-
+</body>
+</html>

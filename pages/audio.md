@@ -22,6 +22,12 @@ group: navigation
 
 <hr>
 
+<p>This is a live tape-talk from November 2014 that aired on CKCU FM in Ottawa.</p> 
+
+<div class="ab-player" data-boourl="http://audioboom.com/boos/3160860-vaping-tape-talk/embed/v3?eid=AQAAACXxS1UcOzAA" data-boowidth="100%" data-maxheight="150" data-iframestyle="background-color:transparent; display:block; min-width:300px; max-width:700px;" style="background-color:transparent;"><a href="https://audioboom.com/boos/3160860-vaping-tape-talk">listen to &#x2018;Vaping Tape-Talk&#x2019; on audioBoom</a></div><script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://d15mj6e6qmt1na.cloudfront.net/cdn/embed.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
+
+<hr>
+
 <h2>News Reporting</h2>
 <br>
 <p>When I worked at 94.1 FM in Elliot Lake, I mostly wrote scripts, played interview clips and aired full interviews.</p><p>But some times I’d get the chance to report live or record a voice report for the afternoon or weekend. </p><p>Here’s one I did in 2009 on a national heritage day that was started because of one dedicated veteran.</p>
