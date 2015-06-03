@@ -16,9 +16,15 @@ group: navigation
 
 <p style="margin-right=50em;">Kyle has also reported for <a href="http://www.am980.ca/">AM 980</a> and the student radio station <a href="http://www.1069thex.com/">106.9 the "X" FM</a> at Fanshawe College in London, ON.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <hr>
 
-<div class="btn-group"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
+<div class="btn-group" align="center"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
 <!--
 <a href="https://twitter.com/Kyle_Duggan"><img alt="Follow Kyle on Twitter" src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" width="24"></a> 
 [Twitter](https://twitter.com/Kyle_Duggan)
