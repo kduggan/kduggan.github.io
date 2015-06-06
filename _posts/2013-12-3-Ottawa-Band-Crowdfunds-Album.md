@@ -4,7 +4,7 @@ title: Ottawa band crowdfunds Christmas album
 tags: Multimedia
 categories: [Multimedia, Print]
 ---
-<img src="https://dl.dropboxusercontent.com/u/50108349/Blag/MFT2.jpg" alt="My Favourite Tragedy" style="width: 550px;"/>
+<img class="img-responsive" src="https://dl.dropboxusercontent.com/u/50108349/Blag/MFT2.jpg" alt="My Favourite Tragedy" style="width: 550px;"/>
 
 **My Favourite Tragedy, left to right: North Easton, John-Marc Desmarais, Phil Desmarais.**
 

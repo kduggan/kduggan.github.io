@@ -4,8 +4,29 @@ title: Carleton students prepare for Canadian drone industry to soar into U.S.
 tags: [Multimedia, Print]
 categories: [Multimedia, Print]
 ---
-<a href="http://www.flickr.com/photos/103582096@N05/sets/72157638494236334/show"><img id="i-153" class=" wp-image  " title="Fourth year engineering student Tarek Abdalla assembles the Corvus aerial drone" src="http://kyleaduggan.files.wordpress.com/2013/12/img_4403.jpg?w=650" alt="" width="585" height="337" /></a> 
-**Fourth year engineering student Tarek Abdalla assembles the Corvus aerial drone. 
+<!--<head>
+<style>
+.Flexible-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.Flexible-container iframe,   
+.Flexible-container object,  
+.Flexible-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style
+</head> -->
+<a href="http://www.flickr.com/photos/103582096@N05/sets/72157638494236334/show"><img alt="Photo of student assembling drone" class="img-responsive" title="Fourth year engineering student Tarek Abdalla assembles the Corvus aerial drone" src="http://kyleaduggan.files.wordpress.com/2013/12/img_4403.jpg?w=650" width="585" height="337" /></a><br> 
+**Fourth year engineering student Tarek Abdalla assembles the Corvus aerial drone.<br> 
 Click on the above photo to view a photo-slideshow.**
 
 ---
@@ -28,7 +49,8 @@ At the same time south of the border, as many as 28 states are considering anti-
 
 ###### **Interactive map: strength of drone laws around the world**
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4%3E%3E1+from+1KvmCobyEXs5YK2WoLMNM1HCN5Yz2hDeQkOLpaAs&amp;viz=MAP&amp;h=false&amp;lat=47.70767840698071&amp;lng=-50.2734375&amp;t=1&amp;z=3&amp;l=col4%3E%3E1&amp;y=2&amp;tmplt=2&amp;hml=KML"></iframe>
+<div class="Flexible-container">
+<iframe class="embed-responsive-item" width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4%3E%3E1+from+1KvmCobyEXs5YK2WoLMNM1HCN5Yz2hDeQkOLpaAs&amp;viz=MAP&amp;h=false&amp;lat=47.70767840698071&amp;lng=-50.2734375&amp;t=1&amp;z=3&amp;l=col4%3E%3E1&amp;y=2&amp;tmplt=2&amp;hml=KML"></iframe> </div>
 
 A Transport Canada working group has already figured out how to regulate commercial use of unmanned aircraft in this country.
 

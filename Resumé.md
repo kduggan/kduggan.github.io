@@ -1,20 +1,13 @@
 ---
 layout: page
-title: "Resume"
+title: "Resume" 
 tags: Resume
 categories: [Resume]
 group: navigation
 ---
 <html>
-<head>
-<style>
-.align-left{ float: left;width:50%;}
-.align-right{float: right;width:25%}
-</style>
-</head>
-<div class='container'><div class="align-left"><h4>EXPERIENCE</h4></div><div class="align-right"><a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a> 
-</div></div>
 <body>
+<h4>EXPERIENCE</h4>
 <p><b>Intern, CBC national radio news </b><br />
 Toronto, ON – June 2 to July 11, 2014 <br /></p>
 
@@ -103,9 +96,10 @@ Fanshawe College, London, ON <br /></p>
 <b>2008</b> Dean’s Honour Roll [Fanshawe] <br /></p>
 
 <hr>
-<!--<a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf?dl=0" class="btn btn-success btn-large" align="right">Download a PDF version</a> -->
+<br>
 <p align="center"><b>References available upon request</b></a>
-<div class="btn-group" align="center"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
-<!--<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Duggan Resume 2013 on Scribd" href="http://www.scribd.com/doc/192942369"  style="text-decoration: underline;" >Duggan Resume 2013</a></p><iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/192942369/content?start_page=1&view_mode=scroll&show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_22723" width="100%" height="600" frameborder="0"></iframe> -->
+<div class="button" align="center"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
+<br>
+<div class="button" align="center"><a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf" class="btn btn-success btn-large" align="right" download="h    ttps://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf">Download as PDF</a>
 </body>
 {% include JB/setup %}
