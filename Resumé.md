@@ -79,7 +79,7 @@ Fanshawe College, London, ON <br /></p>
 • Experience using content management software, including: iNews, Wordpress, CP wire, Burli, etc.<br />
 • Familiar with map making and time-line software, such as Google Fusion Tables and Timeline JS.<br />
 • Experience filing ATIP requests, reading financial statements, budgets, charting/mapping datasets, etc. <br />
-• Radio feature work has appeared on CFRB 1010 AM, CFPL AM 980, CIXX 106.9 FM, and CKNR 94.1FM<br /></p>
+• Radio feature work has appeared on CBC Ottawa, AM 980 London, 106.9 "X" FM, and Moose FM Algoma-Manitoulin<br /></p>
 
 <hr />
 
