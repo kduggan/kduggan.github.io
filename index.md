@@ -7,22 +7,17 @@ title: About
 <head>
 <head>
 <style> 
-div.container {
-    width: em;
-    border: 1em;
-}
-
-div.box {
-    box-sizing: border-box;
-    width: 70%;
-    border: 1em ;
-    float: left;
+img {
+display: inline-block;
+height: auto;
+max-width: 100%;
 }
 </style>
 </head>
 <body>
-<div class="container">
-<div class="box">
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span1">
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
@@ -40,10 +35,9 @@ div.box {
 </div>
 
 <div class="btn-group" align="center"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
-
  <div style="clear:both;"></div>
 </div>
 </div>
-
+</div>
 </body>
 </html>
