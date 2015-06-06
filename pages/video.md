@@ -2,6 +2,7 @@
 layout: page2
 title: "Video"
 group: navigation
+tags: [Video]
 ---
 <html>
 <body>
