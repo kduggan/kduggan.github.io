@@ -4,16 +4,6 @@ title: About
 ---
 {% include JB/setup %}
 <html>
-<head>
-<head>
-<style> 
-img {
-display: inline-block;
-height: auto;
-max-width: 100%;
-}
-</style>
-</head>
 <body>
 <div class="container-fluid">
 <div class="row-fluid">
@@ -21,7 +11,7 @@ max-width: 100%;
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
-<img style="float: right" alt="Kyle's profile picture" src="https://kyleaduggan.files.wordpress.com/2013/09/02.jpg?w=247&h=300" class="img-rounded">
+<img style="float: right" alt="Kyle's profile picture" src="https://kyleaduggan.files.wordpress.com/2013/09/02.jpg?w=247&h=300" class="img-responsive">
   </a>
   <div class="media-body">
 <p> <b>Kyle Duggan</b> is a Master of Journalism student at Carleton University.</p>

@@ -12,7 +12,7 @@ group: navigation
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
-<img style="float: right" class="img-responsive img-rounded" alt="Kyle's profile picture" src="https://kyleaduggan.files.wordpress.com/2013/09/02.jpg?w=247&h=300">
+<img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://kyleaduggan.files.wordpress.com/2013/09/02.jpg?w=247&h=300">
   </a>
   <div class="media-body">
 <p> <b>Kyle Duggan</b> is a Master of Journalism student at Carleton University.</p>
