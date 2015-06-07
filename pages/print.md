@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: "Print Samples"
+title: "Print"
 group: navigation
 ---
 
