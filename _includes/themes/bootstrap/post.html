@@ -15,7 +15,7 @@
     {% unless page.tags == empty %}
       <ul class="list-inline">
       <li><i class="fa fa-tags"></i></li>
-      <span class="halflings halflings-tags" style="color:#81B33A"></span> {% assign tags_list = page.tags %}
+      <span class="glyphicon glyphicon-tags" style="color:#81B33A"></span> {% assign tags_list = page.tags %}
       {% if tags_list.first[0] == null %}
       {% for tag in tags_list %}
       <li>
