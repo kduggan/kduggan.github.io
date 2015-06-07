@@ -12,7 +12,7 @@ group: navigation
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 </head>
 
-
+<!--
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -50,7 +50,7 @@ group: navigation
 </div>
 
 
-
+-->
 <body>
 
 <div data-toggle="jsfg" data-tags="dogs" data-per-page="10"></div>
