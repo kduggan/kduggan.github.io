@@ -49,10 +49,6 @@ group: navigation
   </a>
 </div>
 
-
-
-<body>
-
 <div data-toggle="jsfg" data-tags="dogs" data-per-page="10"></div>
 -->
 
@@ -66,8 +62,6 @@ group: navigation
 <h2>Photography</h2>
 <br>
 -->
-
-
 
 </body>
 </html>
