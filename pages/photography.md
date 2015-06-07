@@ -50,11 +50,11 @@ group: navigation
 </div>
 
 
--->
+
 <body>
 
 <div data-toggle="jsfg" data-tags="dogs" data-per-page="10"></div>
-
+-->
 
 <h2>Audio Slideshow</h2>
 <br>
