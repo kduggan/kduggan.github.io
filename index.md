@@ -4,6 +4,7 @@ title: About
 ---
 {% include JB/setup %}
 <html>
+
 <body>
 <div class="container-fluid">
 <div class="row-fluid">
