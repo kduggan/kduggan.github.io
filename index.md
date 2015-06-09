@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 {% include JB/setup %}
-<html>
-
-<body>
 <div class="container-fluid">
 <div class="row-fluid">
 <div class="col-md-9">

@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -10,7 +10,7 @@ highlighter: pygments
 #
   title : Kyle Duggan
   author : Kyle Duggan
-  name : Kyle Duggan 
+  name: Kyle Duggan | Journalist
   email : kyle.duggan@hotmail.ca
   github : kduggan
   twitter : kyle_duggan
@@ -131,4 +131,6 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
  
       #includes an icon in the footer for each user name you enter
-              
+
+
+

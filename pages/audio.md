@@ -3,9 +3,7 @@ layout: page2
 title: "Audio"
 group: navigation
 ---
-<html>
 <body>
-
 <h2>Live Reporting</h2>
 <br>
 <p>This is a live report I filed from City Hall about the controversial rezoning of an island between Ottawa and Gatineau. </p><p>It was broadcast live on Midweek on October 8, 2014 on 93.1 FM CKCU, Carleton’s radio station.</p>

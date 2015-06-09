@@ -20,7 +20,7 @@
       {% for tag in tags_list %}
       <li>
 	      <a href="/tags.html#{{ tag }}-ref">
-          {{ tag | capitalize }} <span class="badge pull-right">({{ site.tags[tag].size }})</span>
+          {{ tag | capitalize }} <span class="badge pull-right">{{ site.tags[tag].size }}</span>
           {% unless forloop.last %} {% endunless %}
         </a>
       </li>

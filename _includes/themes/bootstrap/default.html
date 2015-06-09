@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 
     <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="description" content="Kyle Duggan is an Ottawa based journalist. He holds a BA from Carleton where he studied Communications and Political Science and is now working on finishing his Master of Journalism.">
     <meta name="author" content="{{ site.author.name }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -16,7 +16,6 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
   </head>
-
   <body>
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
@@ -29,7 +28,6 @@
           </button>
           <a class="navbar-brand" href="{{ HOME_PATH }}">Kyle Duggan</a>
         </div>
-
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav">
             {% assign pages_list = site.pages %}
