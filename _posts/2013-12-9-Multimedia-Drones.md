@@ -47,7 +47,7 @@ That’s because the American Federal Aviation Administration is in the process 
 
 At the same time south of the border, as many as 28 states are considering anti-drone regulations.
 
-###### **Interactive map: strength of drone laws around the world**
+#### **Interactive map: strength of drone laws around the world**
 
 <div class="Flexible-container">
 <iframe class="embed-responsive-item" width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4%3E%3E1+from+1KvmCobyEXs5YK2WoLMNM1HCN5Yz2hDeQkOLpaAs&amp;viz=MAP&amp;h=false&amp;lat=47.70767840698071&amp;lng=-50.2734375&amp;t=1&amp;z=3&amp;l=col4%3E%3E1&amp;y=2&amp;tmplt=2&amp;hml=KML"></iframe> </div>
@@ -80,7 +80,7 @@ What started as a project to give students more hands-on experience has led to a
 
 “Companies need engineers who can understand these systems.”
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123906058&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123906058&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_artwork=false&amp;show_reposts=false"></iframe>
 
 Carleton engineering students have two drone projects on the go: the GeoSurv II and the Corvus uninhabited aerial vehicles.
 
@@ -104,7 +104,7 @@ The wingspan is so large it blocks off the hallway so people have to step over i
 
 The plan is to outfit the Corvus with Micropilot autopilot technology so the aircraft can “take off, cruise around and land with auto-pilot,” said Abdalla.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123890555&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123890555&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
 
 “I think it’s very exciting especially because we flew for the first time.”
 
