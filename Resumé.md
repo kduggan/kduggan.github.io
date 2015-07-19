@@ -8,6 +8,22 @@ group: navigation
 <html>
 <body>
 <h4>EXPERIENCE</h4>
+<p><b>Reporter, iPolitics.ca</b><br />
+Ottawa, ON - July 2015 to current.<br /></p>
+<p>• Writes and researches stories on Canadian politics and public policy.</p>
+
+<p><b>Freelance Contributor, The Alpheus Group</b><br />
+Ottawa, ON - June 2015 to July 2015<br /></p>
+<p>• Attended and monitored proceedings of parliamentary committee meetings.<br>
+• Wrote committee snapshots and filed on short deadlines.</p> 
+
+<p><b>Teaching Assistant, Carleton University </b><br />
+Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
+
+<p>• Reviewed and edited work produced by undergraduate and graduate students <br />
+• Edited assignments for Canadian Press style errors, technical and ethical guidelines <br />
+• Assisted students in learning multimedia skills and technology <br /></p>
+
 <p><b>Intern, CBC national radio news </b><br />
 Toronto, ON – June 2 to July 11, 2014 <br /></p>
 
@@ -22,13 +38,6 @@ Ottawa, ON – April 14-25, 2014 <br /></p>
 <p>• Researched and wrote stories for newspaper and agricultural policy briefing <br />
 • Proofed stories and columns <br />
 • Compiled list of House and Senate business <br /></p>
-
-<p><b>Teaching Assistant, Carleton University </b><br />
-Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
-
-<p>• Reviewed and edited work produced by undergraduate and graduate students <br />
-• Edited assignments for Canadian Press style errors, technical and ethical guidelines <br />
-• Assisted students in learning multimedia skills and technology <br /></p>
 
 <p><b>Communications Summer Student, Hydro Ottawa </b><br />
 Ottawa, ON – May to August 2013 <br /></p>
@@ -96,9 +105,7 @@ Fanshawe College, London, ON <br /></p>
 <b>2008</b> Dean’s Honour Roll [Fanshawe] <br /></p>
 
 <hr>
-<br>
 <p align="center"><b>References available upon request</b></a>
-<div class="button" align="center"><a href="https://twitter.com/Kyle_Duggan"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/twitter-sociocon.png" alt="Follow Kyle on Twitter" width="24" /></a> <a href="http://ca.linkedin.com/pub/kyle-duggan/34/597/a8a"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/linkedin-sociocon.png" alt="Find Kyle on LinkedIn" width="24" /></a> <a href="mailto:kyle.duggan@hotmail.ca?Subject=Hello%20Kyle" target="_top"><img src="https://dl.dropboxusercontent.com/u/50108349/Blag/email-sociocon2.png" alt="Email Kyle" width="24" /></a></div>
 <br>
 <div class="button" align="center"><a href="https://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf" class="btn btn-success btn-large" align="right" download="h    ttps://www.dropbox.com/s/ihp882euwqlrbvl/Kyle_Duggan_Resume_2015.pdf">Download as PDF</a>
 </body>
