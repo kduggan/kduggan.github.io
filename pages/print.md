@@ -4,6 +4,25 @@ title: "Print"
 group: navigation
 ---
 
+
+<h2>iPolitics.ca</h2>
+<br>
+<a href="http://ipolitics.ca/2015/07/28/how-much-constitutional-trouble-could-harpers-senate-vacancies-cause/">How much constitutional trouble could Harper’s Senate vacancies cause?</a> | July 28, 2015
+<br>
+<a href="http://ipolitics.ca/2015/07/23/parties-have-adapted-to-losing-per-vote-subsidy-say-campaign-experts/">Parties have ‘adapted’ to losing per-vote subsidy, say campaign experts</a> | July 23, 2015
+<br>
+<a href="http://thetyee.ca/News/2015/07/18/Kelowna-Greens-Vote-Endorse-Liberal-Oust-Tory-MP/">Kelowna Greens Vote to Endorse Liberal to Oust Tory MP</a> | July 18, 2015
+<br>
+<a href="http://ipolitics.ca/2015/07/11/despite-boom-in-social-media-tv-still-a-mainstay-for-party-advertising/">Despite boom in social media, TV still a mainstay for party advertising</a> | July 11, 2015
+<br>
+<a href="http://ipolitics.ca/2015/07/06/ndp-lags-behind-other-parties-in-alberta-nominations/">NDP lags behind other parties in Alberta nominations</a> | July 6, 2015
+<br>
+<a href="http://ipolitics.ca/2015/07/04/in-the-north-campaigning-is-a-whole-other-ball-game/">
+In the North, campaigning is a whole other ball game</a> | July 4, 2015
+<br>
+
+---
+
 <h2>The Hill Times</h2>
 <br>
 <a href="https://www.dropbox.com/s/7qpn40tamkq46jg/042114_ht2.pdf?dl=0">Agri-industry still fighting U.S. Farm Bill. Others say best bets are lower dollar, new markets</a> | April 21, 2014
