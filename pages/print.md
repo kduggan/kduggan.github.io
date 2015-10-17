@@ -7,7 +7,8 @@ group: navigation
 
 <h2>iPolitics.ca</h2>
 <br>
-<a href="http://ipolitics.ca/2015/07/28/how-much-constitutional-trouble-could-harpers-senate-vacancies-cause/">How much constitutional trouble could Harper’s Senate vacancies cause?</a> | July 28, 2015
+You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>
+<br>
 <br>
 <a href="http://ipolitics.ca/2015/07/23/parties-have-adapted-to-losing-per-vote-subsidy-say-campaign-experts/">Parties have ‘adapted’ to losing per-vote subsidy, say campaign experts</a> | July 23, 2015
 <br>
@@ -42,5 +43,5 @@ In the North, campaigning is a whole other ball game</a> | July 4, 2015
 <br>
 <a href="http://www.davidmckie.com/25-years-after-exxon-valdez-environmentalists-say-canadian-tanker-policy-still-doesnt-hold-water/">25 years after Exxon Valdez, environmentalists say Canadian tanker policy still doesn’t hold water</a> | February 27, 2014
 <br>
-<a href="https://kduggan.github.io/multimedia/print/2013/12/03/Ottawa-Band-Crowdfunds-Album.html">Ottawa Band Crowdfunds Christmas Album</a> | December 3, 2013 
+<a href="https://kduggan.github.io/multimedia/print/2013/12/03/Ottawa-Band-Crowdfunds-Album.html">Ottawa Band Crowdfunds Christmas Album</a> | December 3, 2013
 {% include JB/setup %}

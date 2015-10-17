@@ -1,42 +1,137 @@
 ---
-layout: post
+layout: page
 title: Canada's broadcast regulator to rule on pick and pay TV early on in election year
 tags: Print
 categories: [Print]
 ---
+<head>
+<script type="text/javascript" src="//d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js"></script>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
+
+</head>
+<body>
+<div id="cal-heatmap"></div>
+<script type="text/javascript">
+
+
+	var cal = new CalHeatMap();
+	cal.init({
+  	data: "https://dl.dropboxusercontent.com/u/50108349/promises%20over%20time%201.csv",
+		dataType: "csv",
+			domain: "month",
+			range: 3, legend: [0,1,2],
+			itemSelector: "#cal-heatmap",
+
+			cellSize: 18,
+			displayLegend: true,
+			start: new Date(2015, 8, 0),
+			domainMargin: 20,
+			legendVerticalPosition: "top",
+			legendVerticalPosition: "center",
+	legendOrientation: "vertical",
+	subDomainTextFormat: "%d",
+		cellPadding: 4,
+	animationDuration: 800,
+	domainDynamicDimension: false,
+	previousSelector: "#example-h-PreviousDomain-selector",
+	nextSelector: "#example-h-NextDomain-selector",
+	label: {
+		position: "left",
+		offset: {
+			x: 20,
+			y: 35
+		},
+		width: 110
+	},
+	legend: [20, 40, 60, 80]
+  });
+
+
+</script>
+
+<div id="cal-heatmap2"></div>
+<script type="text/javascript">
+
+
+	var cal = new CalHeatMap();
+	cal.init({
+		//conservatives
+  	data: "https://dl.dropboxusercontent.com/u/50108349/promises%20over%20time%20C.csv",
+		dataType: "csv",
+		itemSelector: "#cal-heatmap2",
+
+			domain: "month",
+			range: 3, legend: [0,1,2],
+			cellSize: 18,
+			displayLegend: true,
+			start: new Date(2015, 8, 0),
+
+			domainDynamicDimension: false,
+			nextSelector: "#domainDynamicDimension-next",
+			previousSelector: "#domainDynamicDimension-previous",
+			itemNamespace: "domainDynamicDimension"
+
+  });
+
+</script>
+
+
+
+<div id="cal-heatmap3"></div>
+<script type="text/javascript">
+	var cal = new CalHeatMap();
+	cal.init({
+  	data: "https://dl.dropboxusercontent.com/u/50108349/promises%20over%20time%201.csv",
+		dataType: "csv",
+		itemSelector: "#cal-heatmap3",
+
+			domain: "month",
+			range: 3, legend: [0,1,2],
+			cellSize: 18,
+			displayLegend: true,
+			domainDynamicDimension: false,
+			start: new Date(2015, 8, 0),
+			nextSelector: "#domainDynamicDimension-next",
+			previousSelector: "#domainDynamicDimension-previous",
+			itemNamespace: "domainDynamicDimension"
+
+  });
+</script>
+
 <p>     If Canada's broadcast and telecommunication regulator orders cable companies to unbundle their TV packages for subscribers, some experts say it could also cause prices to rise for some and reduce channel selection.</p>
 
   According to a Canadian Radio-Television and Telecommunications Commission spokesperson, a decision on whether to force broadcasters to offer a pick and pay option is expected to come out sometime in the first few months of 2015, but they don't have a date set yet.
-  
+
   Unbundling cable packages so consumers can pick and choose the channels they want is a key policy plank for the federal Conservatives and made it into the last Throne Speech – but it's something the three big providers – Bell, Shaw and Rogers -- oppose.
-  
+
   Rich Leffley, a cook for the Maple Leafs hockey team, is the kind of TV watcher the Conservatives hope this policy attracts.
-  
+
   "It's definitely something I'm for,” he said.
-  
+
   Leffley is a huge sports fan, a bit older than the biggest demographic of people opting out of cable, about 18-24 if you look at the latest Nielson figures, and he thinks cable companies are ripping him off with current bundles and pricing plans.
 
   "It's ridiculous you should have to pay an extra fee, if you're already pay for cable, to pay to watch the Leafs play on a Wednesday night,” he said.
-  
+
    Leffley watches mostly sports, but also peruses a lot of U.S. programming on the dial, like South Park and late night talk shows.
-   
+
    He doesn't watch most of the channels he gets.
-   
+
    “There's a whole bunch of channels you'd get on basic cable from zero to 28 that you'd never even think to stop and watch, like the shopping channel. Or French channels that people are meant to pay for but in reality people never watch.”
-   
+
    Leffley says a move to pick and pay TV could change his vote – it's not the big ballot box question for him, but he said it would make him look at a party or candidate much more closely.
-   
+
    And it's something the Conservatives have clearly indicated they want to happen.
-   
+
    A letter sent by former Heritage Minister James Moore to the CRTC chair on his first day on the job back in 2012, which laid out what the regulator's priorities should be, told him  “consumers should have access to more programming choices and affordable choices across all distribution platforms.”
 
    Mark Goldberg, a telecommunication consultant, said telling people unbundling could lead to cheaper cable plans and more consumer choice is a politically attractive way for the Conservative government to pander for votes ahead of the 2015 election.
-  
-   But he said implementing it would be antithetical to the policy goals because it would increase prices and decrease channel choices. 
-   
+
+   But he said implementing it would be antithetical to the policy goals because it would increase prices and decrease channel choices.
+
    “What a lot of folks think unbundling means is not even what's being discussed,” he said.       “You will not have the opportunity to pick only the channels you want. You will still have a basic bundle that includes all sorts of channels that most Canadians don't watch: APTN, the other language service, and Canadians in English Canada will have to have French TV still on their cable bundle.”
 
-   He said this comes at a time when the broadcasting industry is already under “sufficient pressure” from increased competition for eyeballs from online services. 
+   He said this comes at a time when the broadcasting industry is already under “sufficient pressure” from increased competition for eyeballs from online services.
 
    “I think some broadcasters will go dark and I think that some creators on the production side will not have an opportunity to produce because they won't have stations that are around to buy their programming.”
 
@@ -54,7 +149,7 @@ categories: [Print]
 
    He thinks that Goldberg and others are right that it might lead to fewer channels, but Geist doesn't see that as a bad thing.
 
-   “There are many channels that have very limited viewership and it doesn't make much sense to force the public to subsidize those programs by loading them into bundles.” 
+   “There are many channels that have very limited viewership and it doesn't make much sense to force the public to subsidize those programs by loading them into bundles.”
 
    As for pricing, he said there's lots of uncertainty there.
 
@@ -89,7 +184,4 @@ categories: [Print]
    But that's still a long way away.
 
    “Cable won't die quickly and those companies will work to ensure that consumers stay within their systems for as long as possible.”
- 
-
-
-
+
