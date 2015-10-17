@@ -1,7 +1,6 @@
 ---
 layout: page2
 title: "Multimedia"
-group: navigation
 ---
 <html>
 <head>
