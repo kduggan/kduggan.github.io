@@ -15,12 +15,13 @@ tags: [Video]
 <iframe src="https://bmplayer-a.akamaihd.net/shareable/embedssl.html?dc=ctvnews_web&cid=725208&col=379&w=480&h=270&pl=0&plh=0&adSite=ctv.ctvnews&adZone=latestnews&omniAcct=ctvgmnews,ctvgmglobal&section=CTVNews&site=ctvnews&shareUrl=http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="  ></iframe></div></div>   
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
-		 <h4 class="media-heading">Live hits on CTV News Channel</h4>
+		 <h4 class="media-heading">Live Television hits</h4>
 		 Occasionally I provide political analysis on television.<br>
 		 This is from the last week of the 2015 federal election campaign.
 <br>
 <br>
-<div class="well"><b>Topics:</b> Liberal surge in the polls, campaign strategy, minority government forecasting, advance poll turnout,  campaign expectations.
+<div class="well"><i>NB: if the video doesn't load in the frame, you can find it <a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10=">here</a></i>.
+<br>Alternatively, check out my 2016 budget coverage on CPAC <a href="http://www.cpac.ca/en/programs/cpac-special/episodes/47137909/">here</a>.
 </div>
 		 </div></div>    
 </div><br>
@@ -35,7 +36,7 @@ tags: [Video]
 	 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
      <div class="col-xs-12 col-sm-6 col-md-6">
         <h4 class="media-heading">Public Policy Reporting: Ageing Infrastructure</h4>
-        This is a report I worked on in fall 2014 about Canada's aging electricity infrastructure.
+        This is a report I worked on in fall 2014 for a television reporting class at Carleton University about Canada's aging electricity infrastructure. Production and camera work by Paige Parsons and Brett Throop.
 <br>
 <br>
 <div class="well"><b>Intro:</b> A new campaign by the Canadian Electricity Association is trying to shine a light on Canada’s electricity infrastructure deficit.
@@ -79,7 +80,7 @@ Kyle Duggan reports from the Ottawa Nostalgia and Collectibles show. A CJTV feat
 	<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
     <div class="col-xs-12 col-sm-6 col-md-6">
 	<h4 class="media-heading">Fighting Back</h4>
-        This is a short feature-length documentary from May 2015 on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring.</p>
+        This is a short feature-length documentary from May 2015 for <i>the 25th Hour</i>, a television production class at Carleton University, on a boxing gym that's trying to fix Ottawa's gang and drug problems by getting youth into the ring. Production and camera work by Diana Matthews and Emanuela Campanella.</p>
 <br>
 <br>
 <div class="well">   
@@ -104,7 +105,7 @@ And it seems to be already working. Here's his story.
 	<div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
     <div class="col-xs-12 col-sm-6 col-md-6">
 <h4 class="media-heading">Balancing Act</h4>
-This is a short feature length story I shot in February 2015 about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime.
+This is a short feature length story I shot in February 2015 for <i>the 25th Hour</i> about a Gatineau bike repair guy who builds his own unicycles and rides them through the park in the wintertime. Produced by Diana Matthews and Emanuela Campanella.
 <br>
 <br>
 <div class="well">

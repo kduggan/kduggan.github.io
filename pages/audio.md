@@ -28,19 +28,19 @@ group: navigation
 
 -->
 <hr>
+<h2>Live Studio Reporting</h2>
+<h4 class="media-heading">Tape-Talk: Vaping is on the rise in Ottawa as the smoking rate drops</h4>
+<p>This is a tape-talk broadcast live on Midweek on November 19, 2014 on 93.1 FM CKCU, Carleton’s radio station.</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228829104&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
+
+<hr>
 <h2>Live Reporting</h2>
 <br>
 <h4 class="media-heading">Live: City Council Rezones Chaudiere Islands</h4>
 <p>This is a live report I filed from City Hall about the controversial rezoning of an island between Ottawa and Gatineau. </p><p>It was broadcast live on Midweek on October 8, 2014 on 93.1 FM CKCU, Carleton’s radio station.</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/171507549&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
-
-<hr>
-<h2>Live Studio Reporting</h2>
-<h4 class="media-heading">Tape-Talk: Vaping is on the rise in Ottawa as the smoking rate drops</h4>
-<p>This is a tape-talk broadcast live on Midweek on November 19, 2014 on 93.1 FM CKCU, Carleton’s radio station.</p>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228829104&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
 
 <hr>
 <h2>News Reporting</h2>

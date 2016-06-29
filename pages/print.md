@@ -1,47 +1,56 @@
 ---
-layout: page2
+layout: page
 title: "Print"
 group: navigation
 ---
 
 
-<h2>iPolitics.ca</h2>
-<br>
-You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>
-<br>
-<br>
-<a href="http://ipolitics.ca/2015/07/23/parties-have-adapted-to-losing-per-vote-subsidy-say-campaign-experts/">Parties have ‘adapted’ to losing per-vote subsidy, say campaign experts</a> | July 23, 2015
-<br>
-<a href="http://thetyee.ca/News/2015/07/18/Kelowna-Greens-Vote-Endorse-Liberal-Oust-Tory-MP/">Kelowna Greens Vote to Endorse Liberal to Oust Tory MP</a> | July 18, 2015
-<br>
-<a href="http://ipolitics.ca/2015/07/11/despite-boom-in-social-media-tv-still-a-mainstay-for-party-advertising/">Despite boom in social media, TV still a mainstay for party advertising</a> | July 11, 2015
-<br>
-<a href="http://ipolitics.ca/2015/07/06/ndp-lags-behind-other-parties-in-alberta-nominations/">NDP lags behind other parties in Alberta nominations</a> | July 6, 2015
-<br>
-<a href="http://ipolitics.ca/2015/07/04/in-the-north-campaigning-is-a-whole-other-ball-game/">
-In the North, campaigning is a whole other ball game</a> | July 4, 2015
+##iPolitics.ca
 <br>
 
----
+You can find all of my iPolitics stories, including the latest, [here.](http://ipolitics.ca/author/kyle-duggan/)
 
-<h2>The Hill Times</h2>
-<br>
-<a href="https://www.dropbox.com/s/7qpn40tamkq46jg/042114_ht2.pdf?dl=0">Agri-industry still fighting U.S. Farm Bill. Others say best bets are lower dollar, new markets</a> | April 21, 2014
-<br>
-<a href="https://www.dropbox.com/s/dira0u9jxcp3ct8/Hill_times_Duggan_Saul.pdf?dl=0">Saul says secrecy a growing global trend, Hill Journalists should speak up more</a> | April 28, 2014
+
+Here are some highlights, ranging from clashes over the Liberals' assisted dying bill, to lighter moments in politics and, of course, political financing:
+
+[B.C. Civil Liberties Association taking assisted dying law to court](http://ipolitics.ca/2016/06/27/b-c-civil-liberties-association-taking-assisted-dying-law-to-court/) | June 27, 2016
 <br>
 
----
+[Senators vote down last ditch effort to amend assisted dying bill](http://ipolitics.ca/2016/06/17/senators-vote-down-last-ditch-effort-to-amend-assisted-dying-bill/) | June 17, 2016
+<br>
 
-<h2>Carleton School of Journalism</h2>
+[Will the Senate send Bill C-14 into legislative 'ping-pong' match?](http://ipolitics.ca/2016/06/08/will-the-senate-send-bill-c-14-into-legislative-ping-pong-match/) | June 8, 2016
 <br>
-<a href="https://kduggan.github.io/multimedia/print/2013/12/09/Multimedia-Drones">Carleton students prepare for Canadian drone industry to soar into U.S.</a> | December 9, 2013
+
+[Dewar ‘not considering’ leadership run, says party needs to rebuild from the bottom up](http://ipolitics.ca/2016/04/28/dewar-not-ruling-out-leadership-run-says-party-needs-to-rebuild-from-the-bottom-up/?nnw-99202) | April 4, 2016
 <br>
-<!--<a href="https://kduggan.github.io/print/2014/12/06/unbundling">Canada's broadcast regulator to rule on pick and pay TV early on in election year</a> | December 6, 2014
-<br> -->
-<a href="https://kduggan.github.io/print/2014/10/14/Senator-Profile.html">Liberal Senator says Trudeau is after fundamental Senate reform</a> | October 14, 2014
+
+[Did the Green Party spread itself too thin in 2015?](http://ipolitics.ca/2016/04/07/did-the-green-party-spread-itself-too-thin-in-2015/) Co-authored with BJ Siekierski | April 7, 2016
 <br>
-<a href="http://www.davidmckie.com/25-years-after-exxon-valdez-environmentalists-say-canadian-tanker-policy-still-doesnt-hold-water/">25 years after Exxon Valdez, environmentalists say Canadian tanker policy still doesn’t hold water</a> | February 27, 2014
+
+[Election 2015 saw large influx of third-party spending: Elections Canada](http://ipolitics.ca/2016/03/30/election-2015-saw-large-influx-of-third-party-spending-elections-canada/) | March 30, 2016
 <br>
-<a href="https://kduggan.github.io/multimedia/print/2013/12/03/Ottawa-Band-Crowdfunds-Album.html">Ottawa Band Crowdfunds Christmas Album</a> | December 3, 2013
-{% include JB/setup %}
+
+[Supreme Court upholds infanticide law in Borowiec ruling](http://ipolitics.ca/2016/03/24/supreme-court-upholds-infanticide-law-in-borowiec-ruling/) | March 24, 2016
+<br>
+
+[This Hour Has 22 Minutes gives Hy's a funny farewell](http://ipolitics.ca/2016/02/28/this-hour-has-22-minutes-gives-hys-a-funny-farewell/) | February 28, 2016
+<br>
+
+['None of the Above' party outperforms 'None of the Above' candidate in Ontario byelection](http://ipolitics.ca/2016/02/12/none-of-the-above-party-outperforms-none-of-the-above-candidate-in-ontario-byelection/) | February 12, 2016
+<br>
+
+[Lenny, the anti-telemarketing bot, catches party fundraisers again](http://ipolitics.ca/2016/01/29/lenny-the-anti-telemarketing-bot-catches-party-fundraisers-again/) | January 29, 2016
+<br>
+
+[Appointments wide-open for Trudeau to set 'tone and direction' of CRTC](http://ipolitics.ca/2015/11/03/appointments-wide-open-for-trudeau-to-set-tone-and-direction-of-crtc/) | November 3, 2015
+<br>
+
+[Dewar defeated in NDP fortress Ottawa Centre](http://ipolitics.ca/2015/10/20/dewar-defeated-in-ndp-fortress-ottawa-centre/) | October 20, 2015
+<br>
+
+[Parties have ‘adapted’ to losing per-vote subsidy, say campaign experts](http://ipolitics.ca/2015/07/23/parties-have-adapted-to-losing-per-vote-subsidy-say-campaign-experts/) | July 23, 2015
+<br>
+
+[In the North, campaigning is a whole other ball game](http://ipolitics.ca/2015/07/04/in-the-north-campaigning-is-a-whole-other-ball-game/") | July 4, 2015
+<br>
