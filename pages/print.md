@@ -9,7 +9,7 @@ group: navigation
 You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>.
 
 
-Here are some highlights, ranging from clashes over the Liberals' assisted dying bill, to lighter moments in politics and, of course, political financing:
+Here are some highlights, ranging from clashes over the government's assisted dying bill, to lighter moments in politics and, of course, political financing:
 
 <a href="http://ipolitics.ca/2016/06/27/b-c-civil-liberties-association-taking-assisted-dying-law-to-court/">B.C. Civil Liberties Association taking assisted dying law to court</a> | June 27, 2016
 <br>
