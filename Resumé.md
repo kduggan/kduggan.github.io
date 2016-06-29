@@ -102,5 +102,5 @@ Fanshawe College, London, ON <br /></p>
 
 <hr>
 <p align="center"><b>References available upon request</b>
-</body>
+
 {% include JB/setup %}
