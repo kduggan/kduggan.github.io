@@ -6,7 +6,6 @@ group: navigation
 
 <h2>iPolitics.ca</h2>
 
-
 You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>.
 
 
