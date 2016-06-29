@@ -101,6 +101,6 @@ Fanshawe College, London, ON <br /></p>
 <b>2008</b> Dean’s Honour Roll [Fanshawe] <br /></p>
 
 <hr>
-<p align="center"><b>References available upon request</b></a>
+<p align="center"><b>References available upon request</b>
 </body>
 {% include JB/setup %}
