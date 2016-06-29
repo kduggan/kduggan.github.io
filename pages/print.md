@@ -5,7 +5,7 @@ group: navigation
 ---
 
 
-##iPolitics.ca
+<h2>iPolitics.ca</h2>
 <br>
 
 You can find all of my iPolitics stories, including the latest, [here.](http://ipolitics.ca/author/kyle-duggan/)

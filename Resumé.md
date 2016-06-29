@@ -5,7 +5,7 @@ tags: Resume
 categories: [Resume]
 group: navigation
 ---
-####EXPERIENCE
+<h4>EXPERIENCE</h4>
 <p><b>Reporter, iPolitics.ca</b><br />
 Ottawa, ON - July 2015 to current.<br /></p>
 
@@ -63,7 +63,7 @@ Fanshawe College, London, ON - 2006 to 2008 <br /></p>
 
 <hr />
 
-####EDUCATION
+<h4>EDUCATION</h4>
 
 <p><b>Master of Journalism, expected 2015 </b><br />
 Carleton University, Ottawa, ON <br /></p>
@@ -76,7 +76,7 @@ Fanshawe College, London, ON <br /></p>
 
 <hr />
 
-####SKILLS AND QUALIFICATIONS
+<h4>SKILLS AND QUALIFICATIONS</h4>
 
 <p>• Familiar with Canadian Press style <br />
 • Valid driver’s license, clean abstract <br />
@@ -86,9 +86,7 @@ Fanshawe College, London, ON <br /></p>
 • Familiar with map making and time-line software, such as Google Fusion Tables and Timeline JS.<br />
 • Experience filing ATIP requests, reading financial documents and budgets. <br />
 
-
 <hr />
-
 
 <h4>AWARDS AND SCHOLARSHIPS</h4>
 
