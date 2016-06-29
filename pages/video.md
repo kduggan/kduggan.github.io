@@ -45,7 +45,6 @@ Click on the image to watch the video.
      </div>
     </div>
 	</div>
-<br>
 <hr>
 <h2>Reporting</h2>
 <br>
@@ -161,7 +160,4 @@ Their truck is a hit with Ottawans looking for something hot to eat on a cold da
        </div>
       </div>
     </div> -->
-   </div>
-</html>
-</body>
-{% include JB/setup %}
+   

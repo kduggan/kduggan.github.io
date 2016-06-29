@@ -63,5 +63,3 @@ group: navigation
 <p>Here’s a newscast I anchored in April 2008 on 106.9 XFM.</p>
 <br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35918514&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
-
-{% include JB/setup %}
