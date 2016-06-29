@@ -6,7 +6,7 @@ tags: [Video]
 ---
 <html>
 <body>
-<h2>Live Television</h2>
+<h2>Network Television</h2>
 <br>
 <div class="container-fluid">
 <div class="row">
@@ -40,8 +40,8 @@ src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right:
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
-This was a live hit from the last week of the 2015 federal election campaign. Click on the image to watch the video.
-</div>
+This was a live hit from the last week of the 2015 federal election campaign. <br>
+Click on the image to watch the video.
      </div>
     </div>
 	</div>
