@@ -12,19 +12,35 @@ tags: [Video]
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://bmplayer-a.akamaihd.net/shareable/embedssl.html?dc=ctvnews_web&cid=725208&col=379&w=480&h=270&pl=0&plh=0&adSite=ctv.ctvnews&adZone=latestnews&omniAcct=ctvgmnews,ctvgmglobal&section=CTVNews&site=ctvnews&shareUrl=http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="  ></iframe></div></div>   
+<img class="media-object" data-src="holder.js/64x64">
+<a href="http://www.cpac.ca/en/programs/cpac-special/episodes/47137909/"><img style="float: right" class="img-responsive" alt="CPAC Live Hit"
+src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right: 10px"  width="523">
+</a>
+
+</div></div>   
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
-		 Occasionally I provide political analysis on television.<br>
-		 This is from the last week of the 2015 federal election campaign.
+		 Occasionally I provide political analysis on television. This is from the 2016 budget lockup. Click on the image to watch the video.<br>		 
 <br>
 <br>
-<div class="well"><i>NB: if the video doesn't load in the frame, you can find it <a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10=">here</a></i>.
-<br>Alternatively, check out my 2016 budget coverage on CPAC <a href="http://www.cpac.ca/en/programs/cpac-special/episodes/47137909/">here</a>.
 </div>
 		 </div></div>    
-</div><br>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6">
+	<div class="embed-responsive embed-responsive-16by9">
+<img class="media-object" data-src="holder.js/64x64">
+<a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="><img style="float: right" class="img-responsive" alt="CTV Live Hit"
+src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="270" width="523">
+</a>
+<div class="well">This was a live hit from the last week of the 2015 federal election campaign. Click on the image to watch the video.
+</div>
+     </div>
+    </div>
+	</div>
+<br>
 <hr>
 <h2>Reporting</h2>
 <br>
