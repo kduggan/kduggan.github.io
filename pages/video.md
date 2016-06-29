@@ -35,6 +35,8 @@ src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right
 <a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="><img style="float: right" class="img-responsive" alt="CTV Live Hits"
 src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="270" width="523">
 </a>
+</div>    
+</div>
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
