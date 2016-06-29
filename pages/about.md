@@ -23,5 +23,3 @@ group: navigation
 
   <p> Before going to university, he was the News Director at <a href="http://moosefm.com/cknr/news/">CKNR 94.1 FM</a> in Elliot Lake, Ontario from 2008-2009, where he anchored newscasts and reported on local stories, including elections, city council decisions, regional demographic changes and, of course, Northern Ontario winters.</p>
   <p> Kyle has also reported for <a href="http://www.am980.ca/">AM 980</a> and Fanshawe College's student radio station <a href="http://www.1069thex.com/">106.9 the "X" FM</a> in London, ON.
-  
-</html>
