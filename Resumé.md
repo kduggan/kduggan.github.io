@@ -101,6 +101,5 @@ Fanshawe College, London, ON <br /></p>
 <b>2008</b> Dean’s Honour Roll [Fanshawe] <br /></p>
 
 <hr>
-<p align="center"><b>References available upon request</b>
-
-{% include JB/setup %}
+<p align="center"><b>References available upon request</b><br>
+Feel free to reach out to me on <a href="https://www.linkedin.com/in/kyle-duggan-a8a59734">Linkedin</a> as well.
