@@ -5,11 +5,11 @@ group: navigation
 ---
 
 <h2>iPolitics.ca</h2>
+<br>
 
 You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>.
 
-
-Here are some highlights, ranging from clashes over the government's assisted dying bill, to lighter moments in politics and, of course, political financing:
+Here are some highlights, ranging from political skirmishes over the government's assisted dying bill to much lighter moments and, of course, political financing:
 
 <a href="http://ipolitics.ca/2016/06/27/b-c-civil-liberties-association-taking-assisted-dying-law-to-court/">B.C. Civil Liberties Association taking assisted dying law to court</a> | June 27, 2016
 <br>
