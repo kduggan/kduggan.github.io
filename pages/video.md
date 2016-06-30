@@ -6,7 +6,7 @@ tags: [Video]
 ---
 <html>
 <body>
-<h2>Network Television</h2>
+<h2>Television</h2>
 <br>
 <div class="container-fluid">
 <div class="row">
@@ -14,7 +14,7 @@ tags: [Video]
 <div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
 <a href="http://www.cpac.ca/en/programs/cpac-special/episodes/47137909/"><img style="float: right" class="img-responsive" alt="CPAC Live Hit"
-src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right: 10px" width="523">
+src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right: 10px" width="535">
 </a>
 </div>    
 </div>
@@ -33,7 +33,7 @@ src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right
 	<div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
 <a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="><img style="float: right" class="img-responsive" alt="CTV Live Hits"
-src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="270" width="523">
+src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="282" width="535">
 </a>
 </div>    
 </div>
@@ -160,4 +160,3 @@ Their truck is a hit with Ottawans looking for something hot to eat on a cold da
        </div>
       </div>
     </div> -->
-   
