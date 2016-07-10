@@ -20,6 +20,9 @@ Here are some highlights, ranging from political skirmishes over the government'
 <a href="http://ipolitics.ca/2016/06/08/will-the-senate-send-bill-c-14-into-legislative-ping-pong-match/">Will the Senate send Bill C-14 into legislative 'ping-pong' match?</a> | June 8, 2016
 <br>
 
+<a href="https://ipolitics.ca/2016/05/16/will-canada-violate-international-conventions-if-it-legalizes-pot-bill-blair-doesnt-think-so/">Will Canada violate international conventions if it legalizes pot? Bill Blair doesn't think so</a> | May 16, 2016
+<br>
+
 <a href="http://ipolitics.ca/2016/04/28/dewar-not-ruling-out-leadership-run-says-party-needs-to-rebuild-from-the-bottom-up/?nnw-99202">Dewar ‘not considering’ leadership run, says party needs to rebuild from the bottom up</a> | April 4, 2016
 <br>
 

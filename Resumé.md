@@ -65,7 +65,7 @@ Fanshawe College, London, ON - 2006 to 2008 <br /></p>
 
 <h4>EDUCATION</h4>
 
-<p><b>Master of Journalism, expected 2015 </b><br />
+<p><b>Master of Journalism, coursework toward </b><br />
 Carleton University, Ottawa, ON <br /></p>
 
 <p><b>Honours BA in Communication Studies, minor Political Science, Highest Honours, 2013 </b><br />
