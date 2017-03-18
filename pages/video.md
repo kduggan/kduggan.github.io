@@ -13,7 +13,7 @@ tags: [Video]
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
-<a href="http://www.cpac.ca/en/programs/cpac-special/episodes/47137909/"><img style="float: right" class="img-responsive" alt="CPAC Live Hit"
+<a href="https://www.dropbox.com/s/yarihh24bdhhoqr/budgey%20day%20pic.JPG?dl=0"><img style="float: right" class="img-responsive" alt="CPAC Live Hit"
 src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right: 10px" width="535">
 </a>
 </div>    
@@ -32,7 +32,7 @@ src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right
 <div class="col-xs-12 col-sm-6 col-md-6">
 	<div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
-<a href="http://www.ctvnews.ca/video?clipId=725208&v7=video&v8=home&v9=&v10="><img style="float: right" class="img-responsive" alt="CTV Live Hits"
+<a href="https://www.dropbox.com/s/p6cnunt1v6rj78q/CTV.jpg?dl=0"><img style="float: right" class="img-responsive" alt="CTV Live Hits"
 src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="282" width="535">
 </a>
 </div>    

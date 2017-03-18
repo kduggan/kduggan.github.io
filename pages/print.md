@@ -29,7 +29,7 @@ Here are some highlights, ranging from political skirmishes over the government'
 <a href="http://ipolitics.ca/2016/04/07/did-the-green-party-spread-itself-too-thin-in-2015/">Did the Green Party spread itself too thin in 2015?</a> Co-authored with BJ Siekierski | April 7, 2016
 <br>
 
-<a href="http://ipolitics.ca/2016/03/30/election-2015-saw-large-influx-of-third-party-spending-elections-canada/">Election 2015 saw large influx of third-party spending: Elections Canada</a> | March 30, 2016
+<a href="http://ipolitics.ca/2016/03/30/election-2015-saw-large-influx-of-third-party-spending-elections-canada/">Election 2015 saw large influx of third-party spending</a> | March 30, 2016
 <br>
 
 <a href="http://ipolitics.ca/2016/03/24/supreme-court-upholds-infanticide-law-in-borowiec-ruling/">Supreme Court upholds infanticide law in Borowiec ruling </a>| March 24, 2016
