@@ -8,6 +8,7 @@ tags: [Video]
 <body>
 <h2>Television</h2>
 <br>
+<!-
 <div class="container-fluid">
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-6">
@@ -23,6 +24,7 @@ src="https://photos-5.dropbox.com/t/2/AADf0SCDlRfeCWSfA7Ng-xJXSWfelxl6EL5aKHIP71
 		 <h4 class="media-heading">Television interviews</h4>
 		 Occasionally I provide political analysis on television. <br>This is from the 2016 budget lockup. <br>Click on the image to watch the video.<br>		 
 <br>
+->
 <br>
 </div>
 		 </div>  
@@ -32,6 +34,7 @@ src="https://photos-5.dropbox.com/t/2/AADf0SCDlRfeCWSfA7Ng-xJXSWfelxl6EL5aKHIP71
 <div class="col-xs-12 col-sm-6 col-md-6">
 	<div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
+<iframe src="https://bmplayer-a.akamaihd.net/shareable/embedssl.html?dc=ctvnews_web&cid=934465&col=379&w=480&h=270&pl=0&plh=0&adSite=ctv.ctvnewskitchener&adZone=home&omniAcct=ctvgmnews,ctvgmnewsglobalsuite&section=Kitchener&site=kitchener&shareUrl=http://kitchener.ctvnews.ca/video?clipId=934465&v7=story&v8=&v9=&v10=" width="480" height="270" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe>
 <a href="https://www.dropbox.com/s/p6cnunt1v6rj78q/CTV.jpg?dl=0"><img style="float: right" class="img-responsive" alt="CTV Live Hits"
 src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokFyvgA/12/50108349/jpeg/32x32/1/1490072400/0/2/CTV.jpg/EPOE3KsFGNcwIAIoAg/w3_yvPAgsIYDQm8CgZp9k4IMo65Vc_iwaByZeKBAnAI?size=1600x1200&size_mode=3" style="padding-right: 10px" height="282" width="535">
 </a>
@@ -40,8 +43,7 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
-This was a live hit from the last week of the 2015 federal election campaign. <br>
-Click on the image to watch the video.
+This was a live hit on CTV. <br>
      </div>
     </div>
 	</div>
