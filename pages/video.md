@@ -14,7 +14,7 @@ tags: [Video]
 <div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
 <a href="https://www.dropbox.com/s/yarihh24bdhhoqr/budgey%20day%20pic.JPG?dl=0"><img style="float: right" class="img-responsive" alt="CPAC Live Hit"
-src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right: 10px" width="535">
+src="https://photos-5.dropbox.com/t/2/AADf0SCDlRfeCWSfA7Ng-xJXSWfelxl6EL5aKHIP71oZYA/12/50108349/jpeg/32x32/1/1490076000/0/2/CPAC.JPG/EPOE3KsFGNcwIAIoAg/6t1DkqRpC4p7bGHIG44dESGN5qKpCnhaVohWVu441MA?size=256x256&amp;size_mode=5" style="padding-right: 10px" width="535">
 </a>
 </div>    
 </div>
@@ -33,7 +33,7 @@ src="https://dl.dropboxusercontent.com/u/50108349/CPAC.JPG" style="padding-right
 	<div class="embed-responsive embed-responsive-16by9">
 <img class="media-object" data-src="holder.js/64x64">
 <a href="https://www.dropbox.com/s/p6cnunt1v6rj78q/CTV.jpg?dl=0"><img style="float: right" class="img-responsive" alt="CTV Live Hits"
-src="https://dl.dropboxusercontent.com/u/50108349/CTV.jpg" style="padding-right: 10px" height="282" width="535">
+src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokFyvgA/12/50108349/jpeg/32x32/1/1490072400/0/2/CTV.jpg/EPOE3KsFGNcwIAIoAg/w3_yvPAgsIYDQm8CgZp9k4IMo65Vc_iwaByZeKBAnAI?size=1600x1200&size_mode=3" style="padding-right: 10px" height="282" width="535">
 </a>
 </div>    
 </div>
