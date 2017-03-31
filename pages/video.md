@@ -24,7 +24,7 @@ src="https://photos-5.dropbox.com/t/2/AADf0SCDlRfeCWSfA7Ng-xJXSWfelxl6EL5aKHIP71
 		 <h4 class="media-heading">Television interviews</h4>
 		 Occasionally I provide political analysis on television. <br>This is from the 2016 budget lockup. <br>Click on the image to watch the video.<br>		 
 <br>
--->
+
 <br>
 </div>
 		 </div>  
@@ -40,6 +40,7 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 </a>
 </div>    
 </div>
+-->
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
