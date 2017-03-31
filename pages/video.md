@@ -8,7 +8,7 @@ tags: [Video]
 <body>
 <h2>Television</h2>
 <br>
-<!-
+<!-- 
 <div class="container-fluid">
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-6">
@@ -24,7 +24,7 @@ src="https://photos-5.dropbox.com/t/2/AADf0SCDlRfeCWSfA7Ng-xJXSWfelxl6EL5aKHIP71
 		 <h4 class="media-heading">Television interviews</h4>
 		 Occasionally I provide political analysis on television. <br>This is from the 2016 budget lockup. <br>Click on the image to watch the video.<br>		 
 <br>
-->
+-->
 <br>
 </div>
 		 </div>  
