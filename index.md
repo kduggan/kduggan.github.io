@@ -12,7 +12,7 @@ title: Kyle Duggan
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
-    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://photos-5.dropbox.com/t/2/AABEHFYm1GiH7_ZiCIDqWkdDK5XpxLI2YObK82Tetgk0pQ/12/50108349/jpeg/32x32/1/_/1/2/budgey%20day%20pic.JPG/EPOE3KsFGIQxIAIoAg/WssclR06W_uxPw80s79V75tw16dGXpX-ff1wKO9Nfos?size=1600x1200&size_mode=3" style="padding-right: 0px" width="300">
+    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://kduggan.github.io/Profile.JPG" style="padding-right: 0px" width="300">
   </a>
 <div class="media-body well">
 <p>  <b>Kyle Duggan</b> is a Parliamentary reporter at <a href="http://www.ipolitics.ca">iPolitics.ca</a>, an online publication focused on Canadian politics and public policy. He specializes in federal health policy.</p>
