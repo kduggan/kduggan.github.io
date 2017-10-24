@@ -8,14 +8,16 @@ group: navigation
 <br>
 
 You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>. Here are a few highlights:
-
-<a href="http://ipolitics.ca/2017/09/22/pharma-giant-sues-lobbying-commissioner-in-bid-to-block-probe-into-liberal-fundraiser/">Pharma giant sues lobbying commissioner in bid to block probe into Liberal fundraiser</a> Co-authored with Beatrice Britneff | September 22, 2017</a>
+<br>
+<br>
+<a href="http://ipolitics.ca/2017/09/22/pharma-giant-sues-lobbying-commissioner-in-bid-to-block-probe-into-liberal-fundraiser/">Pharma giant sues lobbying commissioner in bid to block probe into Liberal fundraiser</a> Co-authored with Beatrice Britneff | September 22, 2017
 <br>
 
 <a href="http://ipolitics.ca/2017/09/06/spending-on-government-opinion-research-hits-highest-point-in-nearly-a-decade/">Spending on government opinion research hits highest point in nearly a decade</a> | September 6, 2017
 <br>
 
 <a href="http://ipolitics.ca/2017/04/20/cannabis-fans-say-trudeaus-legalization-bill-is-a-bummer/">Cannabis fans say Trudeau's legalization bill is a buzzkill</a> | April 20, 2017
+<br>
 
 <a href="http://ipolitics.ca/2016/06/27/b-c-civil-liberties-association-taking-assisted-dying-law-to-court/">B.C. Civil Liberties Association taking assisted dying law to court</a> | June 27, 2016
 <br>
