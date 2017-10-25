@@ -4,7 +4,15 @@ title: "Audio"
 group: navigation
 ---
 <body>
-<h2>Feature Reporting</h2>
+<h2>Podcasting</h2>
+<br>
+<h4 class="media-heading">Look ahead to Bill C-45 committee hearings</h4>
+
+<p>This is an iPolitics podcast I produced and was a guest interview in looking ahead to a marathon week of hearings at the House of Commons standing committee on health, which was studying the Liberal government's Cannabis Act which will legalize marijuana for recreational use in Canada.</p>
+
+<iframe src="//player.blubrry.com/id/26844480/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-003366&subscribe-ffffff&subscribeBackground-fb8c00&share-ffffff&shareBackground-1976d2" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+
+<h2>Feature Report for CBC</h2>
 <br>
 <h4 class="media-heading">Soundscape: Nunavut Sivuniksavut at 30</h4>
 <p>This is a feature I produced for <a href="http://www.cbc.ca/ottawamorning/">CBC Ottawa Morning</a> about a school that's shaped a generation of Inuit leaders.</p>
@@ -26,7 +34,6 @@ group: navigation
 <div class="ab-player" data-boourl="http://audioboom.com/boos/3160860-vaping-tape-talk/embed/v3?eid=AQAAACXxS1UcOzAA" data-boowidth="100%" data-maxheight="150" data-iframestyle="background-color:transparent; display:block; min-width:300px; max-width:700px;" style="background-color:transparent;"><a href="https://audioboom.com/boos/3160860-vaping-tape-talk">listen to &#x2018;Vaping Tape-Talk&#x2019; on audioBoom</a></div>
 <script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://d15mj6e6qmt1na.cloudfront.net/cdn/embed.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
 
--->
 <hr>
 <h2>Live Studio Reporting</h2>
 <h4 class="media-heading">Tape-Talk: Vaping is on the rise in Ottawa as the smoking rate drops</h4>
@@ -54,7 +61,7 @@ group: navigation
 <h4 class="media-heading">Voicer: Community Graffiti Removal</h4>
 <p>This story aired in 2008 for Fanshawe College’s student-run radio station 106.9 XFM.</p>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/118921832&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
--->
+
 <hr>
 
 <h2>Anchoring</h2>
@@ -63,3 +70,4 @@ group: navigation
 <p>Here’s a newscast I anchored in April 2008 on 106.9 XFM.</p>
 <br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/35918514&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_artwork=false"></iframe>
+-->
