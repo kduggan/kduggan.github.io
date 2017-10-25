@@ -7,7 +7,7 @@ group: navigation
 <h2>iPolitics.ca</h2>
 <br>
 
-You can find all of my iPolitics stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>. Here are a few highlights:
+You can find all of my <i>iPolitics</i> stories, including the latest, <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>. Here are a few highlights:
 <br>
 <br>
 <a href="http://ipolitics.ca/2017/09/22/pharma-giant-sues-lobbying-commissioner-in-bid-to-block-probe-into-liberal-fundraiser/">Pharma giant sues lobbying commissioner in bid to block probe into Liberal fundraiser</a> Co-authored with Beatrice Britneff | September 22, 2017
