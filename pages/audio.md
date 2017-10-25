@@ -4,7 +4,7 @@ title: "Audio"
 group: navigation
 ---
 <body>
-<h2>Podcasting</h2>
+<h2>iPolitics Podcasting</h2>
 <br>
 <h4 class="media-heading">Look ahead to Bill C-45 at committee</h4>
 
@@ -13,7 +13,6 @@ group: navigation
 <iframe src="//player.blubrry.com/id/26844480/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-003366&subscribe-ffffff&subscribeBackground-fb8c00&share-ffffff&shareBackground-1976d2" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 <hr>
-
 <h2>Feature Report for CBC</h2>
 <br>
 <h4 class="media-heading">Soundscape: Nunavut Sivuniksavut at 30</h4>
