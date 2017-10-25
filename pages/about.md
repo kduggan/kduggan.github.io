@@ -13,7 +13,7 @@ group: navigation
     <img class="media-object" data-src="holder.js/64x64">
     <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://pbs.twimg.com/profile_images/714928926196416513/b9UkpUzE.jpg" style="padding-right: 0px" width="300">
   </a>
-<div class="media-body well">
+<div class="media-body">
      <p>  <b>Kyle Duggan</b> is a Parliamentary reporter at <a href="http://www.ipolitics.ca">iPolitics.ca</a>, an online publication focused on Canadian politics and public policy. He specializes in federal health policy.</p>
 
   <p>Kyle's work has appeared in <a href="http://www.hilltimes.com/">The Hill Times</a> and on CBC Ottawa Morning.
