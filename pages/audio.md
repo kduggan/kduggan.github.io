@@ -8,7 +8,7 @@ group: navigation
 <br>
 <h4 class="media-heading">Look ahead to Bill C-45 at committee</h4>
 
-<p>This is an <i>iPolitics</i> podcast I produced where I was the guest interview. It's a look-ahead to a marathon week of hearings at the House of Commons standing committee on health, which was studying the Liberal government's Cannabis Act. The bill will legalize marijuana for recreational use in Canada.</p>
+<p>This is an <i>iPolitics</i> podcast I produced where I was also the guest interview, looking ahead to a marathon week of hearings at the House of Commons health committee about legalizing marijuana for recreational use.</p>
 
 <iframe src="//player.blubrry.com/id/26844480/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-003366&subscribe-ffffff&subscribeBackground-fb8c00&share-ffffff&shareBackground-1976d2" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
