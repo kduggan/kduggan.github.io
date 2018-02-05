@@ -11,11 +11,6 @@ Ottawa, ON - July 2015 to current.<br /></p>
 
 • Writes and researches stories on Canadian politics and public policy.
 
-<p><b>Freelance Contributor, The Alpheus Group</b><br />
-Ottawa, ON - June 2015 to July 2015<br /></p>
-<p>• Attended and monitored proceedings of parliamentary committee meetings<br>
-• Wrote committee reports and filed on short deadlines </p>
-
 <p><b>Teaching Assistant, Carleton University </b><br />
 Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
 
