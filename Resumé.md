@@ -36,19 +36,6 @@ Ottawa, ON – April 14-25, 2014 <br /></p>
 <p>• Researched and wrote stories <br />
 • Proofed stories and columns <br /></p>
 
-<p><b>Communications Summer Student, Hydro Ottawa </b><br />
-Ottawa, ON – May to August 2013 <br /></p>
-
-<p>• Acted as media liaison at press events <br />
-• Wrote press releases and articles, paginated newsletters
-• Monitored and co-managed social media <br /></p>
-
-<p><b>Intern, Rutherford McKay Associates</b> <br />
-Ottawa, ON – November 2011 to November 2012 <br /></p>
-
-<p>• Assisted in media training for scientists and bureaucrats <br />
-• Co-edited a book on media and communications for science professionals <br /></p>
-
 <p><b>News Director, 94.1 FM CKNR “The Moose” (Haliburton Broadcasting Group) </b><br />
 Elliot Lake, ON – August 2008 to August 2009 <br /></p>
 
