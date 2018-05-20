@@ -8,7 +8,7 @@ tags: [Video]
 <body>
 <h2>Television</h2>
 <br>
-<!-- 
+<!--
 <div class="container-fluid">
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-6">
@@ -45,9 +45,9 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 	<div class="col-xs-12 col-sm-6 col-md-6">
 		 <h4 class="media-heading">Live Television hits</h4>
 -->
-This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV. 
-
  <iframe src="https://bmplayer-a.akamaihd.net/shareable/embedssl.html?dc=ctvnews_web&cid=934465&col=379&w=480&h=270&pl=0&plh=0&adSite=ctv.ctvnewskitchener&adZone=home&omniAcct=ctvgmnews,ctvgmnewsglobalsuite&section=Kitchener&site=kitchener&shareUrl=http://kitchener.ctvnews.ca/video?clipId=934465&v7=story&v8=&v9=&v10=" width="480" height="270" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe>
+<br>
+This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV.
 <br>
 <hr>
 <h2>Reporting</h2>
