@@ -60,13 +60,25 @@ This is a video explainer of where things stand on cannabis legalization just af
 </div>
 </div>
 </div>
-</div>
 
- <iframe src="https://bmplayer-a.akamaihd.net/shareable/embedssl.html?dc=ctvnews_web&cid=934465&col=379&w=480&h=270&pl=0&plh=0&adSite=ctv.ctvnewskitchener&adZone=home&omniAcct=ctvgmnews,ctvgmnewsglobalsuite&section=Kitchener&site=kitchener&shareUrl=http://kitchener.ctvnews.ca/video?clipId=934465&v7=story&v8=&v9=&v10=" width="480" height="270" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe>
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6">
+	<div class="embed-responsive embed-responsive-16by9">
+
+ <iframe src="https://webapps.9c9media.com/vidi-player/1.5.1/share/iframe.html?currentId=934465&config=ctvnews/share.json&kruxId=ImoeZsch&cid=%5B%7B%22contentId%22%3A934465%2C%22ad%22%3A%7B%22adsite%22%3A%22ctv.ctvnews%22%2C%22adzone%22%3A%22embed%22%7D%7D%5D" width="560" height="315"frameborder="0" allowfullscreen></iframe>
+ </div>
+ </div>   
+ <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+ <div class="col-xs-12 col-sm-6 col-md-6">
 <br>
 This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV.
 <br>
+</div>
+</div>
+</div>
 <hr>
+
 <h2>Reporting</h2>
 <br>
 <div class="container-fluid">
