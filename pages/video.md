@@ -54,6 +54,7 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 </div>   
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 <div class="col-xs-12 col-sm-6 col-md-6">
+  <h4 class="media-heading">iPolitics explainers</h4>
 This is a video explainer of where things stand on cannabis legalization just after Bill C-45 received royal assent in Parliament.
 <br>
 <br>
@@ -61,10 +62,6 @@ This is a video explainer of where things stand on cannabis legalization just af
 </div>
 </div>
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-6">
-	<div class="embed-responsive embed-responsive-16by9">
 
  <iframe src="https://webapps.9c9media.com/vidi-player/1.5.1/share/iframe.html?currentId=934465&config=ctvnews/share.json&kruxId=ImoeZsch&cid=%5B%7B%22contentId%22%3A934465%2C%22ad%22%3A%7B%22adsite%22%3A%22ctv.ctvnews%22%2C%22adzone%22%3A%22embed%22%7D%7D%5D" width="560" height="315"frameborder="0" allowfullscreen></iframe>
  </div>
