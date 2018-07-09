@@ -61,7 +61,8 @@ This is a video explainer of where things stand on cannabis legalization just af
 </div>
 </div>
 </div>
-
+<br>
+<br>
 This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
 
 <h2>Reporting</h2>
