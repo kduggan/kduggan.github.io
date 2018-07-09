@@ -62,19 +62,7 @@ This is a video explainer of where things stand on cannabis legalization just af
 </div>
 </div>
 
-
- <iframe src="https://webapps.9c9media.com/vidi-player/1.5.1/share/iframe.html?currentId=934465&config=ctvnews/share.json&kruxId=ImoeZsch&cid=%5B%7B%22contentId%22%3A934465%2C%22ad%22%3A%7B%22adsite%22%3A%22ctv.ctvnews%22%2C%22adzone%22%3A%22embed%22%7D%7D%5D" width="560" height="315"frameborder="0" allowfullscreen></iframe>
- </div>
- </div>   
- <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
- <div class="col-xs-12 col-sm-6 col-md-6">
-<br>
-This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV.
-<br>
-</div>
-</div>
-</div>
-<hr>
+This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
 
 <h2>Reporting</h2>
 <br>
