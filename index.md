@@ -15,9 +15,9 @@ title: Kyle Duggan
     <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://pbs.twimg.com/profile_images/714928926196416513/b9UkpUzE.jpg" style="padding-right: 0px" width="300">
   </a>
 <div class="media-body">
-<p>  <b>Kyle Duggan</b> is a Parliament Hill reporter for <a href="http://www.ipolitics.ca">iPolitics.ca</a>, an online news outlet focused on Canadian politics.</p>
+<p>  <b>Kyle Duggan</b> is a Parliament Hill reporter for <a href="http://www.ipolitics.ca">iPolitics.ca</a>, an online news outlet focused on Canadian politics. He specializes in reporting on health policy and politics, which includes cannabis legalization and the country's growing opioid crisis.</p>
 
-<p>His work has also been featured in <a href="http://www.hilltimes.com/">The Hill Times</a> and on CBC radio.
+<p>His work has been featured in <a href="http://www.hilltimes.com/">The Hill Times</a> and on CBC radio.
 
 <br>He interned at CBC national radio news, where he wrote scripts for <a href="http://www.cbc.ca/w6/">The World At Six</a> and <a href="http://www.cbc.ca/theworldthishour/">The World This Hour</a>.</p>
 
