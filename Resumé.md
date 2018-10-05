@@ -6,10 +6,17 @@ categories: [Resume]
 group: navigation
 ---
 <h4>EXPERIENCE</h4>
-<p><b>Reporter, iPolitics.ca</b><br />
-Ottawa, ON - July 2015 to current.<br /></p>
 
-• Writes and researches stories on Canadian politics and public policy.
+<p><b>Reporter, The Wire Report</b><br />
+Ottawa, ON - September 2018 to current.<br /></p>
+• Reports on stories about Canada's telecommunications and broadcasting industries, privacy and copyright.
+
+<p><b>Reporter, iPolitics</b><br />
+Ottawa, ON - July 2015 to September 2018.<br /></p>
+
+• Reported on Canadian politics, including elections, leadership races and the daily partisan cut-and-thrust in Parliament.
+• Specialized in researching stories about federal health policy, which included cannabis legalization, assisted dying, national pharmacare and Canada's opioid crisis.
+• Other roles included writing iPolitics' flagship email newsletters, producing podcasts, and appearing in various local and national media as a political pundit.
 
 <p><b>Teaching Assistant, Carleton University </b><br />
 Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
@@ -29,7 +36,6 @@ Toronto, ON – June 2 to July 11, 2014 <br /></p>
 Ottawa, ON – April 14-25, 2014 <br /></p>
 
 <p>• Researched and wrote stories <br />
-• Proofed stories and columns <br /></p>
 
 <p><b>News Director, 94.1 FM CKNR “The Moose” (Haliburton Broadcasting Group) </b><br />
 Elliot Lake, ON – August 2008 to August 2009 <br /></p>
@@ -61,12 +67,12 @@ Fanshawe College, London, ON <br /></p>
 <h4>SKILLS AND QUALIFICATIONS</h4>
 
 <p>• Familiar with Canadian Press style <br />
-• Valid driver’s license, clean abstract <br />
+• Experience filing Access to Information requests, reading financial, regulatory and parliamentary documents.
 • Experience using cameras, audio and video recording equipment.<br />
 • Familiar with multimedia editing software, including: Dalet, Avid DTV, Final Cut Pro, Audition, Photoshop, InDesign.<br />
 • Experience using content management software, including: iNews, Wordpress, CP wire, Burli.<br />
-• Familiar with map making and time-line software, such as Google Fusion Tables and Timeline JS.<br />
-• Experience filing ATIP requests, reading financial documents and budgets. <br />
+• Familiar with various multimedia apps for making interactive timelines and maps, including Google Fusion Tables and Timeline JS.<br />
+<br />
 
 <hr />
 
