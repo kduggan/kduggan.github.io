@@ -14,9 +14,9 @@ Ottawa, ON - September 2018 to current.<br /></p>
 <p><b>Reporter, iPolitics</b><br />
 Ottawa, ON - July 2015 to September 2018.<br /></p>
 
-• Reported on Canadian politics, including elections, leadership races and the daily partisan cut-and-thrust in Parliament.
-• Specialized in researching stories about federal health policy, which included cannabis legalization, assisted dying, national pharmacare and Canada's opioid crisis.
-• Other roles included writing iPolitics' flagship email newsletters, producing podcasts, and appearing in various local and national media as a political pundit.
+• Reported on Canadian politics, including elections, leadership races and the daily partisan cut-and-thrust in Parliament.<br />
+• Specialized in researching stories about federal health policy, which included cannabis legalization, assisted dying, national pharmacare and Canada's opioid crisis.<br />
+• Other roles included writing iPolitics' flagship email newsletters, producing podcasts, and appearing in various local and national media as a political pundit.<br /></p>
 
 <p><b>Teaching Assistant, Carleton University </b><br />
 Ottawa, ON – Fall 2013 to Spring 2015 <br /></p>
