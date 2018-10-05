@@ -9,7 +9,7 @@ group: navigation
 
 <p><b>Reporter, The Wire Report</b><br />
 Ottawa, ON - September 2018 to current.<br /></p>
-• Reports on stories about Canada's telecommunications and broadcasting industries, privacy and copyright.
+• Reports on stories about Canada's telecommunications and broadcasting industries.
 
 <p><b>Reporter, iPolitics</b><br />
 Ottawa, ON - July 2015 to September 2018.<br /></p>
@@ -89,6 +89,3 @@ Fanshawe College, London, ON <br /></p>
 <b>2008</b> Dean’s Honour Roll [Fanshawe] <br /></p>
 
 <hr>
-<p align="center"><b>References available upon request</b><br><br>
-
-You can also find me on <a href="https://www.linkedin.com/in/kyle-duggan-a8a59734">Linkedin</a>.
