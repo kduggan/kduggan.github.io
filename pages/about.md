@@ -22,7 +22,3 @@ group: navigation
 <p>For three years before that he wrote for <a href="http://www.ipolitics.ca">iPolitics.ca</a> covering cannabis legalization, assisted dying and other major files related to drugs and health. <br /></p>
 
 <p>Broadcasting, podcasting and punditry – he does it all, and loves every minute on Parliament Hill.<br /></p>
-
-<p>His work has been featured in <a href="http://www.hilltimes.com/">The Hill Times</a> and on CBC radio.<br /></p>
-
-<p>He interned at CBC radio, where he wrote news copy for <a href="http://www.cbc.ca/w6/">The World At Six</a> and <a href="http://www.cbc.ca/theworldthishour/">The World This Hour</a>.</p>
