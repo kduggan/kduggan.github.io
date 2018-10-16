@@ -67,7 +67,7 @@ Fanshawe College, London, ON <br /></p>
 <h4>SKILLS AND QUALIFICATIONS</h4>
 
 <p>• Familiar with Canadian Press style <br />
-• Experience filing Access to Information requests, reading financial, regulatory and parliamentary documents.
+• Experience filing Access to Information requests, reading financial, regulatory and parliamentary documents.<br />
 • Experience using cameras, audio and video recording equipment.<br />
 • Familiar with multimedia editing software, including: Dalet, Avid DTV, Final Cut Pro, Audition, Photoshop, InDesign.<br />
 • Experience using content management software, including: iNews, Wordpress, CP wire, Burli.<br />
