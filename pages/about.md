@@ -17,7 +17,9 @@ group: navigation
 
 <p><b>Kyle Duggan</b> is a political reporter in Ottawa, Canada. <br /></p>
 
-<p>He currently writes about telecom and digital industries for The Wire Report. For three years before that he wrote for <a href="http://www.ipolitics.ca">iPolitics.ca</a> covering cannabis legalization, assisted dying and other major files related to drugs and health. <br /></p>
+<p>He currently writes about telecom and digital industries for The Wire Report. </p>
+
+<p>For three years before that he wrote for <a href="http://www.ipolitics.ca">iPolitics.ca</a> covering cannabis legalization, assisted dying and other major files related to drugs and health. <br /></p>
 
 <p>Broadcasting, podcasting and punditry – he does it all, and loves every minute on Parliament Hill.<br /></p>
 
