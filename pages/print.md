@@ -7,8 +7,8 @@ group: navigation
 <h2>iPolitics.ca</h2>
 <br>
 
-You can find all of my <i>iPolitics</i> stories <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>.
-<br>
+<p>You can find all of my <i>iPolitics</i> stories <a href="http://ipolitics.ca/author/kyle-duggan/">here</a>.
+<br></p>
 Here are a few highlights:
 <br>
 <br>
