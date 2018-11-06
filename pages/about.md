@@ -11,7 +11,7 @@ group: navigation
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
-    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src="https://pbs.twimg.com/profile_images/714928926196416513/b9UkpUzE.jpg" style="padding-right: 0px" width="300">
+    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src=" https://www.google.ca/url?sa=i&source=images&cd=&ved=2ahUKEwjU0OXS0LXeAhVFneAKHQW_DzAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg-19hcFxLHY&psig=AOvVaw0bXxvlQcr4ApOfII4BOmGA&ust=1541245244502435" style="padding-right: 0px" width="300">
   </a>
 <div class="media-body">
 
