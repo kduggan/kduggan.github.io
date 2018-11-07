@@ -11,7 +11,7 @@ group: navigation
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
-    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src=" https://ipolitics.ca/wp-content/uploads/2018/06/Screen-Shot-2018-06-15-at-4.08.30-PM.png" style="padding-right: 0px" width="900">
+    <img style="float: right" class="img-responsive" alt="Kyle's profile picture" src=" https://ipolitics.ca/wp-content/uploads/2018/06/Screen-Shot-2018-06-15-at-4.08.30-PM.png" style="padding-right: 0px" width="600">
   </a>
 <div class="media-body">
 
