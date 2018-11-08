@@ -7,7 +7,7 @@ group: navigation
 <body>
 <div class="container-fluid">
 <div class="row-fluid">
-<div class="col-md-10">
+<div class="col-md-12">
 <div class="media">
   <a class="pull-left" href="#">
     <img class="media-object" data-src="holder.js/64x64">
