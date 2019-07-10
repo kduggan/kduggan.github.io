@@ -6,7 +6,7 @@ tags: [Video]
 ---
 <html>
 <body>
-<h2>Television and online video</h2>
+<h2>Video</h2>
 <br>
 <!--
 <div class="container-fluid">
@@ -55,16 +55,12 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 <div class="col-xs-12 col-sm-6 col-md-6">
   <h4 class="media-heading">iPolitics explainers</h4>
-This is a video explainer of where things stand on cannabis legalization just after Bill C-45 received royal assent in Parliament.
-<br>
-<br>
-</div>
-</div>
-</div>
-<br>
-<br>
-This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
+This is a video explainer about cannabis legalization in Canada, just after Bill C-45 received royal assent in Parliament in June 2018.
 
+ <!--This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
+-->
+
+<!--
 <h2>Reporting</h2>
 <br>
 <div class="container-fluid">
@@ -105,7 +101,7 @@ Kyle Duggan reports from the Ottawa Nostalgia and Collectibles show. A CJTV feat
 </div>
       </div>
     </div>
-	</div> -->
+	</div>
 <hr>
 <h2>Editing</h2>
    <br>  
