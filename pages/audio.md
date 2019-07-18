@@ -4,16 +4,16 @@ title: "Audio"
 group: navigation
 ---
 <body>
-<h2>iPolitics Podcasting</h2>
+<h2>Podcasts</h2>
 <br>
 <h4 class="media-heading">Look ahead to Bill C-45 at committee</h4>
 
-<p>This is an <i>iPolitics</i> podcast I produced where I was also the guest. It was a look ahead to a marathon week of hearings at the House of Commons health committee about legalizing marijuana for recreational use.</p>
+<p>This is an <i>iPolitics</i> podcast I produced where I was also the guest. It was a look ahead to a marathon week of hearings at the House of Commons health committee about legalizing cannabis for recreational use. I edited and produced a number of iPolitics podcasts which were typically panels of reporters and pundits discussing the news.</p>
 
 <iframe src="//player.blubrry.com/id/26844480/#time-0&darkOrLight-Light&shownotes-ffffff&shownotesBackground-444444&download-ffffff&downloadBackground-003366&subscribe-ffffff&subscribeBackground-fb8c00&share-ffffff&shareBackground-1976d2" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 <hr>
-<h2>Feature Report for CBC</h2>
+<h2>Feature reporting</h2>
 <br>
 <h4 class="media-heading">Soundscape: Nunavut Sivuniksavut at 30</h4>
 <p>This is a feature I produced for <a href="http://www.cbc.ca/ottawamorning/">CBC Ottawa Morning</a> about a school that's shaped a generation of Inuit leaders.</p>

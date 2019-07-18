@@ -6,8 +6,11 @@ tags: [Video]
 ---
 <html>
 <body>
-<h2>Video</h2>
+<h2>Explainers</h2>
 <br>
+<p>This is an iPolitics video explainer about cannabis legalization in Canada, which we recorded just after Bill C-45 received royal assent in Parliament back in June 2018. It was part of a weekly series that ran on Fridays.</p>
+
+
 <!--
 <div class="container-fluid">
 <div class="row">
@@ -54,10 +57,10 @@ src="https://photos-1.dropbox.com/t/2/AABpGGBpMiqVnj9sGb_P0bdOkP7mCGFW8vB0v5DokF
 </div>   
 <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
 <div class="col-xs-12 col-sm-6 col-md-6">
-  <h4 class="media-heading">iPolitics explainers</h4>
+ <!--  <h4 class="media-heading">iPolitics explainers</h4>
 This is a video explainer about cannabis legalization in Canada, just after Bill C-45 received royal assent in Parliament in June 2018.
 
- <!--This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
+This was a <a href="http://kitchener.ctvnews.ca/video?clipId=934465">live hit</a> on CTV (the embed code has since stopped working so it's a direct link).
 -->
 
 <!--
