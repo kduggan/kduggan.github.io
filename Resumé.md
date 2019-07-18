@@ -36,7 +36,7 @@ Elliot Lake, ON – August 2008 to August 2009 <br /></p>
 
 <h4>EDUCATION</h4>
 
-<p><b>Master of Journalism, coursework toward </b><br />
+<p><b>Master of Journalism [coursework]  </b><br />
 Carleton University, Ottawa, ON <br /></p>
 
 <p><b>Honours BA in Communication Studies, minor Political Science, Highest Honours, 2013 </b><br />
@@ -50,7 +50,7 @@ Fanshawe College, London, ON <br /></p>
 <h4>SKILLS AND QUALIFICATIONS</h4>
 
 <p>• Familiar with Canadian Press style <br />
-• Experience filing Access to Information requests. <br /> 
+• Experience filing Access to Information requests. <br />
 • Experience reading earnings reports, budgets, parliamentary and regulatory documents.<br />
 • Familiar with multimedia editing software, including Dalet, Final Cut, Audition, Photoshop.<br />
 • Experience using cameras, audio and video recording equipment.<br />
